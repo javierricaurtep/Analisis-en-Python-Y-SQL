@@ -1,0 +1,1001 @@
+﻿ID,NOMBREAPELLIDO,CODIGOCIUDAD,FECHAINGRESO,TELEFONO,CORREO,CARRERA
+1,EDELKA,1,3/5/2019,2579148,edelka@hotmail.com,Ingeniería de sistemas
+2,LUAN,5,10/6/2019,3925183,luan@hotmail.com,Ingenieria química
+3,SIOMER,2,3/7/2020,2787650,siomer@hotmail.c,Ingeniería de sistemas
+4,ZAHORY,2,12/8/2019,3868566,zahory@hotmail.com,Ingeniería de sistemas
+5,HICTADOR,1,3/9/2019,3047140,hictador@hotmail.com,Ingeniería de sistemas
+6,ODYULIANA,10,12/10/2018,3123439,odyuliana_hotmail.com,Matemáticas
+7,MIRIANGEL,4,8/1/2020,3059570,mariangel@hotmail.com,Ciencia política
+8,EDWSAIN,2,3/12/2019,3799145,@hotmail.com,Estadística
+9,MAIIRA,1,8/1/2023,3349499,Lina@hotmail.com,Ingeniería de sistemas
+10,BELLCE,6,10/29/2020,3232500,bellce@gmail.com,Ciencia política
+11,GHINA,6,12/22/2018,2703755,ghina@outlook.com,Ciencia política
+12,YOHISER,5,3/11/2021,3836336,yohiser@outlook.co,Geología 
+13,DAVINTON,5,5/29/2022,2901593,davinton@hotmail.com,Ingeniería Industrial
+14,FACUNDO,7,6/30/2019,3052146,facundo@hotmail.co,Ciencia política
+15,EMADELEINE,1,3/11/2022,3129300,emadeleine@gmail.co,Matemáticas
+16,MERCE,14,2/2/2019,3816476,merce@gmail.com,Administración de empresas
+17,YORMAIN,6,11/4/2020,3671728,yormain@outlook.com,Estadística
+18,VIOLANDA,1,11/4/2021,3513234,violanda@outlook.co,Administración de empresas
+19,GLELY,2,11/1/2016,3181828,glely@hotmail.com,Ingeniería eléctrica
+20,JUANNICOLAS,5,2/6/2021,3022706,juannicolas@hotmail.co,Ciencia política
+21,MARYRED,5,6/14/2023,2900094,maryred@gmail.co,Estadística
+22,HEIMARD,2,3/10/2022,3670277,heimard@gmail.com,Estadística
+23,EDHIDSON,1,3/28/2017,3711225,edhidson@outlook.com,Ingenieria electrónica
+24,YANIREL,7,1/25/2018,3873728,yanirel@hotmail.com,Ingenieria química
+25,GIANINE,7,8/7/2016,3215580,gianine@hotmail.co,Estadística
+26,JONZUI,2,5/20/2016,3119619,jonzui@gmail.co,Ingenieria química
+27,THELMO,1,9/22/2017,3004810,thelmo@gmail.com,Ingeniería eléctrica
+28,EDWAR,8,5/19/2020,3883713,edwar@outlook.com,Ingeniería de sistemas
+29,LONDY,4,10/22/2022,3542752,londy@outlook.co,Ingeniería eléctrica
+30,LEHESLY,4,11/20/2020,3745733,lehesly@hotmail.com,Ingeniería de sistemas
+31,JADRES,4,2/2/2022,3465457,jadres@hotmail.co,Ciencia política
+32,ELIBERTO,10,10/6/2017,3677611,eliberto@gmail.co,Ingenieria química
+33,JOLDER,12,1/6/2022,2950444,jolder@gmail.com,Matemáticas
+34,INILSE,2,9/2/2018,2936186,inilse@outlook.com,Ingenieria química
+35,GRUMENDIS,5,2/19/2019,3394207,grumendis@outlook.co,Geología 
+36,YUDREY,5,6/1/2020,3622621,yudrey@hotmail.com,Ingenieria química
+37,CELFIRE,8,7/2/2019,2651232,celfire@hotmail.co,Ingeniería Industrial
+38,YULIVER,5,12/20/2018,3455155,yuliver@gmail.co,Ingeniería Industrial
+39,CASRLOS,14,4/20/2022,3139049,casrlos@gmail.com,Ingenieria química
+40,YAIDELIN,12,9/4/2016,3792722,yaidelin@outlook.com,Ingenieria electrónica
+41,JENESSE,7,11/12/2020,2651106,jenesse@outlook.co,Ingenieria electrónica
+42,BLEYMAN,4,7/11/2022,2852946,bleyman@hotmail.com,Ingeniería eléctrica
+43,EULINEO,6,7/14/2021,3102923,eulineo@hotmail.co,Ciencia política
+44,GREEDGORY,1,11/4/2021,3738046,greedgory@gmail.co,Ingeniería de sistemas
+45,GUSVICT,12,7/24/2023,2623765,gusvict@gmail.com,Matemáticas
+46,EPS,15,9/14/2022,3382536,eps@outlook.com,Estadística
+47,YEDIR,1,10/26/2017,2635486,yedir@hotmail.com,Administración de empresas
+48,RIQUELMA,1,6/1/2018,3776367,riquelma@hotmail.co,Ingeniería de sistemas
+49,OIBER,7,8/24/2016,2795929,oiber@gmail.co,Estadística
+50,HELLYSOL,8,1/26/2017,3518825,hellysol@gmail.com,Geología 
+51,DELDELKER,5,10/8/2016,3815721,deldelker@outlook.com,Ingenieria electrónica
+52,DISNERY,12,3/26/2018,_778557,disnery@outlook.co,Geología 
+53,ONORO,2,4/11/2020,3278210,onoro@hotmail.com,Ingeniería de sistemas
+54,CUJABANTE,2,8/8/2020,2668401,cujabante@hotmail.co,Estadística
+55,CIELO,12,1/3/2017,3247075,cielo@gmail.co,Ingenieria electrónica
+56,HAIBLEIDY,7,9/8/2020,3092464,haibleidy@gmail.com,Ciencia política
+57,AHIDY,15,8/15/2016,3908199,ahidy@outlook.com,Matemáticas
+58,ANDRIELYS,2,12/26/2019,3203544,andrielys@outlook.co,Ingeniería eléctrica
+59,YESNEYDER,8,3/11/2017,3042052,yesneyder@hotmail.com,Ingeniería Industrial
+60,STIVERNEY,2,6/7/2021,3562646,stiverney@hotmail.co,Ingeniería Industrial
+61,DEMBER,14,10/24/2021,3741264,dember@gmail.co,Ingeniería Industrial
+62,LUVES,1,7/23/2020,3114449,luves@gmail.com,Geología 
+63,MARYORISOL,14,7/24/2017,3087164,maryorisol@outlook.com,Ingenieria electrónica
+64,CATTELLINY,5,8/4/2016,2901574,cattelliny@outlook.co,Estadística
+65,MARGIETH,6,1/18/2022,3781496,margieth@hotmail.com,Geología 
+66,YUSNEIVY,15,7/2/2020,3412844,yusneivy@hotmail.co,Ciencia política
+67,YOLANDRY,2,9/16/2018,2732326,yolandry@gmail.co,Ingeniería de sistemas
+68,LUBERTH,5,6/20/2018,2904201,luberth@gmail.com,Ingeniería eléctrica
+69,GUSTAO,4,12/18/2022,3647373,gustao@outlook.com,Ingeniería Industrial
+70,ZASKYA,12,6/28/2018,3348632,zaskya@hotmail.com,Matemáticas
+71,LUZDENNY,5,1/25/2021,3536673,luzdenny@hotmail.co,Ingeniería Industrial
+72,JANYOSER,2,10/29/2021,3132084,janyoser@gmail.co,Ingenieria química
+73,MILHER,1,10/6/2019,3740537,milher@gmail.com,Administración de empresas
+74,DILLEMAN,2,9/9/2017,3461805,dilleman@outlook.com,Geología 
+75,DARINSONTH,5,1/11/2020,3627424,darinsonth@outlook.co,Geología 
+76,EDILBELLY,1,1/9/2017,3535318,edilbelly@hotmail.com,Geología 
+77,PRENSA,2,9/17/2021,2785767,prensa@hotmail.co,Ingeniería de sistemas
+78,DANINY,4,9/28/2018,2588360,daniny@gmail.co,Administración de empresas
+79,UVALDO,5,12/30/2019,3815155,uvaldo@gmail.com,Estadística
+80,GIL,15,8/1/2018,3052053,gil@outlook.com,Ingenieria electrónica
+81,DALAL,15,7/20/2018,3407242,dalal@outlook.co,Ciencia política
+82,MARDENIA,14,4/8/2023,3767287,mardenia@hotmail.com,Ingeniería de sistemas
+83,RELED,1,12/20/2018,3331076,reled@hotmail.co,Ingeniería de sistemas
+84,MADIXON,5,4/11/2021,3441329,madixon@gmail.co,Ingeniería de sistemas
+85,CATAMA,5,12/31/2016,3096028,catama@gmail.com,Geología 
+86,ONAN,15,9/13/2020,2692823,onan@outlook.com,Ingeniería Industrial
+87,SIXLADIZ,6,11/12/2017,2755912,sixladiz@outlook.co,Ingeniería Industrial
+88,VILLAMIN,4,4/17/2016,3010430,villamin@hotmail.com,Ingeniería de sistemas
+89,DOBANY,1,11/3/2021,3682868,dobany@hotmail.co,Ingeniería Industrial
+90,PORRA,6,1/28/2021,3847457,porra@gmail.co,Estadística
+91,IRALY,2,10/6/2017,3890877,iraly@gmail.com,Administración de empresas
+92,ROSMALIA,2,12/14/2020,3027409,rosmalia@outlook.com,Matemáticas
+93,CLARANIMIA,4,5/1/2020,3257628,claranimia@hotmail.com,Geología 
+94,MARINUELLA,1,12/25/2020,3544775,marinuella@hotmail.co,Administración de empresas
+95,BEIGMAN,14,6/30/2019,3059594,beigman@gmail.co,Matemáticas
+96,JETULIO,5,5/10/2022,3425682,jetulio@gmail.com,Matemáticas
+97,BELLALINETH,8,7/21/2019,3667189,bellalineth@outlook.com,Geología 
+98,RUDBELS,5,11/9/2017,3137739,rudbels@outlook.co,Administración de empresas
+99,NARELDYS,2,6/1/2019,3209359,nareldys@hotmail.com,Administración de empresas
+100,GRIMALDOS,10,6/15/2016,3136370,grimaldos@hotmail.co,Ingenieria electrónica
+101,VALLENILLA,4,5/29/2016,3676754,vallenilla@gmail.co,Ciencia política
+102,ARLEVY,2,2/9/2019,3530926,arlevy@gmail.com,Ciencia política
+103,DILCELLE,5,8/25/2018,2638596,dilcelle@outlook.com,Estadística
+104,JHONIELSON,4,4/20/2020,2614170,jhonielson@outlook.co,Ciencia política
+105,HIMERDONEY,10,4/6/2019,3649869,himerdoney@hotmail.com,Matemáticas
+106,KERRY,1,10/7/2018,3793690,kerry@hotmail.co,Matemáticas
+107,GARCELA,1,4/11/2020,3087878,garcela@gmail.co,Estadística
+108,YURLIETH,2,3/14/2017,3289077,yurlieth@gmail.com,Ingenieria química
+109,JENKLIM,4,12/27/2019,2833990,jenklim@outlook.com,Ingeniería de sistemas
+110,SHEISSON,10,4/18/2022,3596972,sheisson@outlook.co,Ingenieria electrónica
+111,ESKITH,2,12/9/2019,3687051,eskith@hotmail.com,Ciencia política
+112,REYEMIL,1,11/9/2017,2814743,reyemil@hotmail.co,Ingeniería eléctrica
+113,ANYTA,1,8/3/2017,3414788,anyta@gmail.co,Ingeniería de sistemas
+114,YAMILEL,1,3/19/2016,2603675,yamilel@gmail.com,Administración de empresas
+115,MARIETT,10,5/26/2020,2620176,mariett@outlook.com,Administración de empresas
+116,LISYANE,10,6/11/2018,3734755,lisyane@hotmail.com,Ingeniería eléctrica
+117,DIOLIMA,1,11/7/2018,3459732,diolima@hotmail.co,Ingeniería eléctrica
+118,WINKI,8,7/10/2017,2958982,winki@gmail.co,Administración de empresas
+119,TAYDE,8,9/29/2017,3375834,tayde@gmail.com,Ingeniería de sistemas
+120,REBOLLO,5,6/8/2016,3411421,rebollo@outlook.com,Ingenieria electrónica
+121,DALIMAR,5,3/16/2020,3772847,dalimar@outlook.co,Matemáticas
+122,NOREN,8,6/10/2022,3355786,noren@hotmail.com,Matemáticas
+123,SITNA,5,5/16/2017,3362683,sitna@hotmail.co,Estadística
+124,JORGINA,6,7/2/2017,2971658,jorgina@gmail.co,Ingeniería eléctrica
+125,JINZON,6,5/26/2022,3067046,jinzon@gmail.com,Ingeniería Industrial
+126,JYSSEL,5,7/17/2022,3802112,jyssel@outlook.com,Ingeniería de sistemas
+127,ISBEIDYS,5,6/18/2020,3791778,isbeidys@outlook.co,Ingenieria química
+128,CANOLES,12,12/30/2021,3893696,canoles@hotmail.com,Ingeniería Industrial
+129,JANEYS,2,12/1/2018,3673390,janeys@hotmail.co,Ingeniería eléctrica
+130,EXNEDY,1,6/15/2019,3113757,exnedy@gmail.co,Ingeniería eléctrica
+131,LUZDIANY,7,5/25/2020,3373957,luzdiany@gmail.com,Ingeniería eléctrica
+132,FREDNA,4,7/26/2018,3424658,fredna@outlook.com,Ingeniería Industrial
+133,FERNETH,12,10/12/2020,2912244,ferneth@outlook.co,Ingenieria electrónica
+134,YUNEIDA,12,9/5/2021,2954969,yuneida@hotmail.com,Ciencia política
+135,YUNIAN,2,7/6/2019,3814094,yunian@hotmail.co,Ingeniería de sistemas
+136,WENDA,1,8/12/2017,3251016,wenda@gmail.co,Geología 
+137,JISEDTH,1,11/11/2018,3006849,jisedth@gmail.com,Administración de empresas
+138,YULEYNI,5,5/20/2017,2671495,yuleyni@outlook.com,Estadística
+139,MILESE,5,9/6/2016,2966304,milese@hotmail.com,Matemáticas
+140,SUGEIBY,5,8/25/2017,2808305,sugeiby@hotmail.co,Administración de empresas
+141,LEAL,1,7/16/2019,3853413,leal@gmail.co,Ingeniería eléctrica
+142,MIRONEL,2,6/7/2022,3802018,mironel@gmail.com,Estadística
+143,YUDCELY,6,8/15/2017,3264506,yudcely@outlook.com,Ingenieria química
+144,HES,7,4/2/2021,3384457,hes@outlook.co,Geología 
+145,FRENYALI,7,6/10/2023,3387762,frenyali@hotmail.com,Ciencia política
+146,ALFABIS,14,3/15/2017,3776957,alfabis@hotmail.co,Ciencia política
+147,JHOSIRY,4,6/3/2020,3895432,jhosiry@gmail.co,Estadística
+148,DEURIN,2,12/27/2022,3890913,deurin@gmail.com,Ingenieria electrónica
+149,NORLANDIA,1,12/10/2017,3137925,norlandia@outlook.com,Matemáticas
+150,ARDANYS,1,8/31/2020,3136505,ardanys@outlook.co,Matemáticas
+151,LEISSI,15,3/23/2020,3300673,leissi@hotmail.com,Geología 
+152,MARGGE,12,8/24/2016,3088114,margge@hotmail.co,Ingeniería Industrial
+153,MIJARES,12,2/7/2023,2691985,mijares@gmail.co,Ingeniería eléctrica
+154,CLAUDIOA,1,9/1/2019,3097000,claudioa@gmail.com,Ingeniería de sistemas
+155,MARYJHEN,1,2/27/2018,3814737,maryjhen@outlook.com,Ingeniería eléctrica
+156,LAURELY,14,null,3645585,laurely@outlook.co,Ciencia política
+157,EDILAMAR,5,1/12/2022,2888316,edilamar@hotmail.com,Ciencia política
+158,DANILEIMY,14,7/9/2017,3905128,danileimy@hotmail.co,Administración de empresas
+159,KEYSHAN,8,7/30/2019,3725323,keyshan@gmail.co,Ciencia política
+160,LHAYS,1,6/23/2022,3204441,lhays@gmail.com,Geología 
+161,JONNHYS,6,5/11/2021,2957561,jonnhys@outlook.com,Ingeniería Industrial
+162,BETNI,5,9/16/2022,2599720,betni@hotmail.com,Estadística
+163,ESTARLIS,5,11/24/2017,2872093,estarlis@hotmail.co,Ingenieria electrónica
+164,JHAMILLTON,5,5/31/2020,3671242,jhamillton@gmail.co,Ingeniería Industrial
+165,ENOEMIT,2,11/3/2018,3807275,enoemit@gmail.com,Ingeniería Industrial
+166,GRELEN,15,6/14/2016,3308246,grelen@outlook.com,Ingeniería de sistemas
+167,NELMA,2,1/9/2021,3133709,nelma@outlook.co,Estadística
+168,ELICIN,4,7/21/2023,2852531,elicin@hotmail.com,Ingenieria química
+169,LEZSLY,1,4/25/2018,3509419,lezsly@hotmail.co,Estadística
+170,JONATHAND,15,10/17/2020,3829162,jonathand@gmail.co,Ingenieria electrónica
+171,ANGIRLY,7,12/26/2020,2944173,angirly@gmail.com,Estadística
+172,YORSIDIS,7,12/9/2018,3863112,yorsidis@outlook.com,Geología 
+173,NATIBERLY,6,5/19/2021,3814484,natiberly@outlook.co,Ingeniería de sistemas
+174,FRANCHELIS,15,2/24/2023,3358613,franchelis@hotmail.com,Ingenieria electrónica
+175,ESMERAY,2,3/29/2016,3879014,esmeray@hotmail.co,Ingeniería de sistemas
+176,TAMBORINO,7,6/1/2016,3105803,tamborino@gmail.co,Ingeniería de sistemas
+177,EDULCAINA,7,4/16/2020,3661100,edulcaina@gmail.com,Ciencia política
+178,MENGUAN,2,9/7/2020,3222671,menguan@outlook.com,Ingenieria química
+179,NILLIBIA,4,11/7/2019,3576964,nillibia@outlook.co,Ingenieria química
+180,SUCEY,5,12/11/2019,3762896,sucey@hotmail.com,Ingeniería de sistemas
+181,RUI,5,5/9/2017,2902935,rui@hotmail.co,Estadística
+182,JANGERY,12,8/31/2016,3687465,jangery@gmail.co,Geología 
+183,JOUVERT,1,8/15/2018,2994901,jouvert@gmail.com,Ciencia política
+184,ARGEIDY,5,8/23/2017,3014989,argeidy@outlook.com,Ingeniería eléctrica
+185,ESDENE,1,7/28/2022,3640792,esdene@hotmail.com,Ingeniería Industrial
+186,ADULIS,2,2/8/2017,3141486,adulis@hotmail.co,Matemáticas
+187,ELIGER,5,12/4/2017,3521128,eliger@gmail.co,Administración de empresas
+188,ZETLER,2,2/11/2020,3151028,zetler@gmail.com,Ingeniería Industrial
+189,SOLANGEE,4,12/1/2021,3131572,solangee@outlook.com,Ingenieria electrónica
+190,MADIT,1,11/4/2019,2662821,madit@outlook.co,Ingenieria química
+191,ADALIR,8,2/9/2019,3319406,adalir@hotmail.com,Ingeniería de sistemas
+192,GERSONH,7,5/16/2017,2785244,gersonh@hotmail.co,Administración de empresas
+193,RAYMANDO,7,6/28/2018,3521416,raymando@gmail.co,Ingeniería Industrial
+194,CARMENSZA,5,3/17/2017,2640997,carmensza@gmail.com,Geología 
+195,BADIH,12,2/3/2020,3354820,badih@outlook.com,Ingeniería de sistemas
+196,NARIEIDA,2,1/18/2021,2890740,narieida@outlook.co,Ingeniería eléctrica
+197,NEITY,1,12/21/2017,2898422,neity@hotmail.com,Administración de empresas
+198,LORYS,10,9/24/2016,2819340,lorys@hotmail.co,Ingeniería Industrial
+199,OSWEIMAR,14,11/16/2020,3786805,osweimar@gmail.co,Matemáticas
+200,LLANO,7,3/2/2020,3177975,llano@gmail.com,Administración de empresas
+201,HAIDN,10,5/17/2021,3465020,haidn@outlook.com,Ingeniería eléctrica
+202,JOHEDASAN,6,8/5/2022,2747717,johedasan@outlook.co,Ingeniería de sistemas
+203,AURE,2,9/15/2022,3069711,aure@hotmail.com,Ingeniería Industrial
+204,DAURIALIS,5,3/15/2018,2712329,daurialis@hotmail.co,Matemáticas
+205,DANGELY,2,5/2/2023,3641515,dangely@gmail.co,Ingeniería Industrial
+206,AYVER,1,2/21/2017,3513786,ayver@gmail.com,Ingenieria electrónica
+207,JHEERLLEY,12,11/10/2017,2846894,jheerlley@outlook.com,Ingenieria química
+208,YARENE,6,9/9/2019,2792158,yarene@hotmail.com,Ingenieria electrónica
+209,MILVIAN,12,3/27/2017,3004331,milvian@hotmail.co,Ingenieria electrónica
+210,GELLILUT,7,4/3/2018,3567065,gellilut@gmail.co,Geología 
+211,LISANDIS,12,7/2/2019,3683685,lisandis@gmail.com,Ingenieria electrónica
+212,TAYBER,4,2/18/2023,3722890,tayber@outlook.com,Administración de empresas
+213,ZURIS,14,8/12/2022,3638867,zuris@outlook.co,Ingenieria electrónica
+214,YORCHI,4,3/19/2016,3045342,yorchi@hotmail.com,Ingeniería eléctrica
+215,ADARVIL,5,6/24/2021,3494474,adarvil@hotmail.co,Matemáticas
+216,ZORAGNNI,7,3/13/2016,3579921,zoragnni@gmail.co,Estadística
+217,JAIBER,15,4/4/2022,3513463,jaiber@gmail.com,Ingeniería Industrial
+218,JEDISSON,4,7/12/2018,3564554,jedisson@outlook.com,Estadística
+219,ENOLA,6,10/24/2018,2740847,enola@outlook.co,Administración de empresas
+220,PHILIPHO,1,1/27/2019,3311748,philipho@hotmail.com,Geología 
+221,JELSICA,8,5/25/2022,3421416,jelsica@hotmail.co,Geología 
+222,EXTOVISON,7,4/30/2023,3268967,extovison@gmail.co,Ingenieria química
+223,CONCILIA,2,8/20/2017,2838151,concilia@gmail.com,Ciencia política
+224,DENYSE,1,8/15/2016,2635637,denyse@outlook.com,Ingenieria química
+225,MARESI,12,10/26/2019,3902147,maresi@outlook.co,Ingenieria química
+226,GHYBHY,6,4/20/2020,3788819,ghybhy@hotmail.com,Ingenieria química
+227,WHILBERTH,5,11/22/2021,3187567,whilberth@hotmail.co,Ingeniería Industrial
+228,YEHIKO,6,12/9/2017,3429861,yehiko@gmail.co,Administración de empresas
+229,NEIYER,5,10/15/2020,2806310,@gmail.com,Ciencia política
+230,ELCILIA,15,9/23/2018,3784726,elcilia@outlook.com,Geología 
+231,CEDNEY,14,1/19/2019,3085214,cedney@hotmail.com,Ingenieria electrónica
+232,JASMIRIS,1,4/6/2019,2924946,jasmiris@hotmail.co,Administración de empresas
+233,ERCIRIA,4,7/26/2018,null,erciria@gmail.co,Ingeniería Industrial
+234,MARDAINE,2,2/18/2021,3493979,mardaine@gmail.com,Ingeniería eléctrica
+235,GOZZOLY,4,9/8/2020,2698754,gozzoly@outlook.com,Ingenieria electrónica
+236,GIOMER,5,2/21/2021,3352193,giomer@outlook.co,Ingeniería Industrial
+237,MAICHEEL,2,8/18/2016,2667299,maicheel@hotmail.com,Ingeniería eléctrica
+238,BETHA,1,6/16/2019,3534571,betha@hotmail.co,Ingeniería eléctrica
+239,HARDWIK,1,3/30/2020,3582386,hardwik@gmail.co,Ingeniería de sistemas
+240,ENNIZ,5,12/7/2016,3349751,enniz@gmail.com,Geología 
+241,JEROMITO,7,5/5/2023,3355945,jeromito@outlook.com,Geología 
+242,LEISNE,1,11/25/2017,2690189,leisne@outlook.co,Ciencia política
+243,HESENIA,12,3/20/2017,3144592,hesenia@hotmail.com,Ingeniería de sistemas
+244,JULAINE,8,3/10/2023,3367355,julaine@hotmail.co,Ingeniería eléctrica
+245,FRIGSI,8,8/1/2016,3370596,frigsi@gmail.co,Ingeniería de sistemas
+246,MIRYEIS,10,5/6/2023,3367110,miryeis@gmail.com,Administración de empresas
+247,MILKREY,2,4/9/2021,3261301,milkrey@outlook.com,Ingeniería eléctrica
+248,QUILLIAN,4,1/17/2021,3212813,quillian@outlook.co,Geología 
+249,SABITRIZ,2,3/10/2020,3250775,sabitriz@hotmail.com,Ingeniería de sistemas
+250,HOYORVIS,5,8/10/2016,2799784,hoyorvis@hotmail.co,Ingeniería Industrial
+251,ARSIER,5,10/20/2019,3104845,arsier@gmail.co,Ciencia política
+252,ADNER,2,7/3/2023,2826591,adner@gmail.com,Matemáticas
+253,YULITZE,2,5/2/2018,3339572,yulitze@outlook.com,Estadística
+254,SORLENI,4,5/10/2018,3324516,sorleni@hotmail.com,Ingenieria electrónica
+255,QUANLIANG,1,8/10/2017,3874085,quanliang@hotmail.co,Geología 
+256,DELFER,10,4/21/2016,3381323,delfer@gmail.co,Ingeniería Industrial
+257,ZYUDITH,6,11/11/2018,2631230,zyudith@gmail.com,Administración de empresas
+258,MARDALLY,5,6/21/2017,2816039,mardally@outlook.com,Ingeniería de sistemas
+259,GREHYMA,10,10/8/2019,2699151,grehyma@outlook.co,Administración de empresas
+260,NINCE,15,1/7/2023,3824733,nince@hotmail.com,Geología 
+261,DIYANITZA,7,12/8/2020,3578398,diyanitza@hotmail.co,Estadística
+262,HAMINSON,15,9/8/2018,2983870,haminson@gmail.co,Administración de empresas
+263,GUIOVANN,15,5/6/2019,3601853,guiovann@gmail.com,Ingeniería de sistemas
+264,QUENDRA,6,2/27/2017,2652778,quendra@outlook.com,Ingeniería Industrial
+265,SHERLLY,6,6/11/2019,2727942,sherlly@outlook.co,Ingeniería de sistemas
+266,LAYBIS,15,6/11/2016,2889345,laybis@hotmail.com,Administración de empresas
+267,YICEILA,4,12/26/2018,2585684,yiceila@hotmail.co,Ciencia política
+268,JACZER,12,7/23/2021,3706102,jaczer@gmail.co,Matemáticas
+269,DELBIN,8,6/26/2018,3540096,delbin@gmail.com,Administración de empresas
+270,AGNES,5,10/31/2019,3142747,agnes@outlook.com,Matemáticas
+271,HENNY,5,4/24/2019,3694629,henny@outlook.co,Ingeniería de sistemas
+272,MAG,2,3/12/2017,3358948,mag@hotmail.com,Administración de empresas
+273,TARWIN,6,1/9/2021,3924646,tarwin@hotmail.co,Administración de empresas
+274,LUDSEDYD,5,7/13/2019,3218676,ludsedyd@gmail.co,Administración de empresas
+275,DIONISIA,14,12/21/2021,3594547,dionisia@gmail.com,Ciencia política
+276,LANDERLEDY,1,4/14/2019,3674741,landerledy@outlook.com,Geología 
+277,SILKING,5,3/29/2018,2999792,silking@hotmail.com,Ingenieria química
+278,LARIDE,8,9/2/2016,3085763,laride@hotmail.co,Ingeniería Industrial
+279,DREICY,4,7/11/2019,45824,dreicy@gmail.co,Ingeniería de sistemas
+280,MALYORI,14,3/1/2023,3191317,malyori@gmail.com,Ingenieria electrónica
+281,SEHERYS,12,4/11/2019,3447654,seherys@outlook.com,Ingenieria química
+282,LUSAIDY,1,7/22/2021,3514444,lusaidy@outlook.co,Ingenieria química
+283,ARJADYS,6,12/28/2022,2848826,arjadys@hotmail.com,Matemáticas
+284,YAXIBER,2,9/20/2019,3351258,yaxiber@hotmail.co,Estadística
+285,JUSSELLY,5,10/11/2022,2706181,jusselly@gmail.co,Estadística
+286,MENELIA,7,11/8/2018,3267941,menelia@gmail.com,Ingeniería Industrial
+287,NEXIS,1,9/20/2021,2697885,nexis@outlook.com,Ingenieria electrónica
+288,SULEBY,5,4/5/2018,2939059,suleby@outlook.co,Ciencia política
+289,JEIBELTH,4,1/14/2022,2582276,jeibelth@hotmail.com,Ingenieria química
+290,MARYENIS,10,4/5/2023,2587475,maryenis@hotmail.co,Geología 
+291,SIREY,5,2/21/2018,2794586,sirey@gmail.co,Matemáticas
+292,MARGELE,5,7/12/2021,3048507,margele@gmail.com,Ingeniería de sistemas
+293,ILEX,2,10/11/2022,3858850,ilex@outlook.com,Matemáticas
+294,MAURCIO,2,7/18/2017,3313182,maurcio@outlook.co,Administración de empresas
+295,DUGLAS,15,3/21/2022,3545029,duglas@hotmail.com,Ciencia política
+296,KEEY,12,7/14/2021,2759737,keey@hotmail.co,Ingeniería eléctrica
+297,ROWENS,15,11/23/2020,3834661,rowens@gmail.co,Ciencia política
+298,YUNELY,15,2/7/2022,2791384,yunely@gmail.com,Administración de empresas
+299,CONTRERA,5,11/18/2018,3639251,contrera@outlook.com,Ciencia política
+300,BEDUIT,15,6/11/2017,3263319,beduit@hotmail.com,Administración de empresas
+301,LIBANIEL,5,7/4/2018,3172606,libaniel@hotmail.co,Ingenieria química
+302,NACARID,7,6/28/2022,3397808,nacarid@gmail.co,Ingenieria química
+303,GEORGGETTE,2,8/5/2020,3176979,georggette@gmail.com,Ingenieria electrónica
+304,JESSEE,8,12/7/2022,2941029,jessee@outlook.com,Geología 
+305,ROMELIO,12,7/27/2017,3260184,romelio@outlook.co,Ingeniería Industrial
+306,SIRLEHY,6,8/13/2016,3551653,sirlehy@hotmail.com,Ingenieria química
+307,GRACIAELA,12,4/25/2020,3719194,graciaela@hotmail.co,Ciencia política
+308,SLEIMEN,14,5/14/2020,3610670,sleimen@gmail.co,Administración de empresas
+309,ACDRID,5,7/5/2022,3286375,acdrid@gmail.com,Geología 
+310,SIBELIA,15,null,3814405,sibelia@outlook.com,Ingeniería de sistemas
+311,MERGIS,10,7/16/2019,2964598,mergis@outlook.co,Geología 
+312,ESNA,12,1/8/2019,2815381,esna@hotmail.com,Ingeniería eléctrica
+313,MAYINSEN,12,3/16/2017,2872103,mayinsen@hotmail.co,Administración de empresas
+314,JERELLY,2,12/28/2019,3043447,jerelly@gmail.co,Ciencia política
+315,ALFRENIJAIL,6,4/18/2019,3813453,alfrenijail@gmail.com,Ingenieria química
+316,ADAYR,7,12/17/2016,3829985,adayr@outlook.com,Ciencia política
+317,ILFO,12,8/8/2020,3487349,ilfo@outlook.co,Ingenieria química
+318,EUMAR,12,4/9/2021,2762773,eumar@hotmail.com,Matemáticas
+319,JAXISLEN,1,5/10/2018,3758625,jaxislen@hotmail.co,Ingenieria electrónica
+320,PRAGER,8,10/1/2021,3525344,prager@gmail.co,Matemáticas
+321,BLUDYS,14,4/8/2018,3661077,bludys@gmail.com,Ingeniería de sistemas
+322,RUMELDA,6,9/25/2017,2744140,rumelda@outlook.com,Ingeniería de sistemas
+323,BERENILDA,1,5/25/2017,3500358,berenilda@hotmail.com,Ciencia política
+324,DAIYEN,5,7/25/2022,2952884,daiyen@hotmail.co,Estadística
+325,YOHARLY,2,5/3/2016,2627481,yoharly@gmail.co,Matemáticas
+326,ADIANY,7,10/19/2022,3720585,adiany@gmail.com,Estadística
+327,CECELIS,5,4/28/2023,3218892,cecelis@outlook.com,Geología 
+328,NADRILLED,1,3/20/2016,2714854,nadrilled@outlook.co,Ingenieria química
+329,ANALIBAR,15,7/2/2022,3677076,analibar@hotmail.com,Administración de empresas
+330,NIMCI,5,11/2/2017,3110265,nimci@hotmail.co,Geología 
+331,WALBERTA,1,10/30/2020,2894817,walberta@gmail.co,Ingeniería de sistemas
+332,OTO,15,5/1/2017,3855933,oto@gmail.com,Ingeniería Industrial
+333,KAROLI,5,11/3/2017,3871183,karoli@outlook.com,Administración de empresas
+334,MARSHEL,12,5/9/2019,3325414,marshel@outlook.co,Estadística
+335,KARYM,2,7/21/2022,3357320,karym@hotmail.com,Ingenieria electrónica
+336,CRISTHIE,8,9/17/2019,3849633,cristhie@hotmail.co,Ciencia política
+337,ATILIANO,10,5/1/2021,3421053,atiliano@gmail.co,Ingenieria química
+338,YURNET,6,12/11/2020,2972150,yurnet@gmail.com,Administración de empresas
+339,HIEFFER,8,12/4/2019,3817060,hieffer@outlook.com,Geología 
+340,YOUBERT,8,12/20/2020,3660242,youbert@outlook.co,Ingenieria electrónica
+341,STEFEN,1,5/29/2018,3015501,stefen@hotmail.com,Ingeniería eléctrica
+342,NORABEL,2,10/17/2016,2838663,norabel@hotmail.co,Ingeniería eléctrica
+343,MILBAN,7,8/10/2021,3215813,milban@gmail.co,Ingeniería Industrial
+344,LSO,4,9/18/2017,3135223,lso@gmail.com,Ingenieria electrónica
+345,WILLIS,12,5/10/2016,3561519,willis@outlook.com,Ingenieria química
+346,COSTELLO,1,1/19/2022,3789672,costello@hotmail.com,Ingeniería Industrial
+347,MARGUI,5,11/9/2019,3054582,margui@hotmail.co,Ingeniería eléctrica
+348,HUERFIA,12,8/3/2022,3533041,huerfia@gmail.,Ingeniería de sistemas
+349,ODIRA,4,9/16/2016,2616986,odira@gmail.com,Ingenieria química
+350,DOVELIA,6,3/4/2022,2594692,dovelia@outlook.com,Ingenieria electrónica
+351,NEBERTO,2,3/23/2021,3775621,neberto@outlook.co,Ingeniería eléctrica
+352,YORYA,1,8/7/2019,2678796,yorya@hotmail.com,Ingeniería eléctrica
+353,LUDEY,6,3/2/2019,3308498,ludey@hotmail.co,Geología 
+354,ELLESI,5,6/14/2016,3575371,ellesi@gmail.co,Ingeniería eléctrica
+355,DELIZABETH,1,10/29/2021,3348760,delizabeth@gmail.com,Ingenieria electrónica
+356,WALINTON,1,11/8/2018,3182474,walinton@outlook.com,Ingeniería de sistemas
+357,YAERLIS,10,2/13/2019,3223931,yaerlis@outlook.co,Ingeniería de sistemas
+358,DEINEY,4,8/10/2021,3517718,deiney@hotmail.com,Ciencia política
+359,JETNI,6,8/29/2017,2711154,jetni@hotmail.co,Ciencia política
+360,MAUXI,8,10/23/2016,2728093,mauxi@gmail.co,Geología 
+361,HAMNER,2,7/5/2018,3225985,hamner@gmail.com,Ingenieria electrónica
+362,JAMET,2,9/20/2020,3323824,jamet@outlook.com,Ingeniería de sistemas
+363,VILLIDONIO,8,1/7/2020,2725898,villidonio@outlook.co,Administración de empresas
+364,LUCERITH,1,5/23/2022,3445948,lucerith@hotmail.com,Ingenieria química
+365,FANDIÑO,10,2/27/2021,3801987,fandiño@hotmail.co,Ingeniería Industrial
+366,MARIAIS,10,6/3/2021,null,mariais@gmail.co,Ciencia política
+367,KAROLANE,6,10/2/2020,3268494,karolane@gmail.com,Ingenieria química
+368,YUIVARILDO,15,7/8/2016,3072413,yuivarildo@outlook.com,Ingenieria electrónica
+369,LUCELIYER,2,1/8/2019,3255018,luceliyer@hotmail.com,Ingeniería eléctrica
+370,YARIBETH,5,11/5/2020,3306816,yaribeth@hotmail.co,Ingeniería eléctrica
+371,BISETH,10,11/24/2021,3694426,biseth@gmail.co,Ingenieria electrónica
+372,ELICEMIR,5,9/24/2020,3866248,elicemir@gmail.com,Estadística
+373,JESMY,6,9/25/2017,3770533,jesmy@outlook.com,Ingeniería eléctrica
+374,JOSSELYM,8,7/18/2023,2918212,josselym@outlook.co,Ingeniería Industrial
+375,GHUGO,7,11/2/2016,3142185,ghugo@hotmail.com,Administración de empresas
+376,GALIN,2,9/16/2020,2744127,galin@hotmail.co,Geología 
+377,GREGOR,7,11/19/2019,2666175,gregor@gmail.co,Ingenieria electrónica
+378,JIMMMY,14,7/31/2021,3234086,jimmmy@gmail.com,Matemáticas
+379,GEIGNY,8,5/14/2021,3145672,geigny@outlook.com,Estadística
+380,DIERLYS,12,5/13/2020,3412948,dierlys@outlook.co,Ingenieria química
+381,HALBI,5,9/24/2019,3893742,halbi@hotmail.com,Geología 
+382,NUMERLAY,2,11/8/2016,3393530,numerlay@hotmail.co,Ingenieria electrónica
+383,LEUDENYS,8,7/1/2017,3785622,leudenys@gmail.co,Ingeniería de sistemas
+384,BERMEILEN,5,5/31/2018,3493302,bermeilen@gmail.com,Estadística
+385,IVONETH,14,5/29/2023,2963094,ivoneth@outlook.com,Ingenieria electrónica
+386,CONVERTY,6,11/11/2020,3298790,converty@outlook.co,Estadística
+387,AMIL,4,9/7/2018,3535185,amil@hotmail.com,Ingeniería Industrial
+388,ALVEEN,2,6/24/2020,2753996,alveen@hotmail.co,Administración de empresas
+389,GARAVITO,5,1/2/2019,3654964,garavito@gmail.co,Administración de empresas
+390,JISA,12,6/13/2019,2637289,jisa@gmail.com,Ciencia política
+391,DREILY,10,1/18/2018,3886295,dreily@outlook.com,Administración de empresas
+392,AMELVY,8,12/9/2020,2860426,amelvy@hotmail.com,Ingenieria química
+393,JHURISHADAY,1,6/17/2020,2640383,jhurishaday@hotmail.co,Estadística
+394,DEWIN,15,8/24/2021,3663472,dewin@gmail.co,Ingeniería de sistemas
+395,EBOLI,5,11/18/2021,3704428,eboli@gmail.com,Ingenieria electrónica
+396,DEYRON,1,11/4/2017,3076381,deyron@outlook.com,Administración de empresas
+397,LEXON,15,11/23/2016,3912450,lexon@outlook.co,Matemáticas
+398,DELSIRA,10,7/21/2018,3756104,delsira@hotmail.com,Ciencia política
+399,YENNINFER,5,1/19/2018,3792886,yenninfer@hotmail.co,Estadística
+400,ZURIMABO,2,9/11/2022,3107951,zurimabo@gmail.co,Estadística
+401,BREEINNER,1,1/15/2022,2620157,breeinner@gmail.com,Matemáticas
+402,RUSDELIA,6,7/10/2018,3117556,rusdelia@outlook.com,Administración de empresas
+403,VECSI,5,5/30/2016,3562980,vecsi@outlook.co,Geología 
+404,QUE,12,5/3/2021,3853022,que@hotmail.com,Geología 
+405,LESLEYDIS,7,4/20/2021,3169005,lesleydis@hotmail.co,Ingeniería Industrial
+406,MICHELYS,7,6/21/2022,2837729,michelys@gmail.co,Ciencia política
+407,HERNADIS,7,4/19/2023,3818191,hernadis@gmail.com,Ingeniería de sistemas
+408,SIBIL,2,9/30/2018,3073314,sibil@outlook.com,Ingeniería Industrial
+409,MYNDI,1,4/11/2017,3327645,myndi@outlook.co,Ingeniería eléctrica
+410,ANDIERI,14,5/22/2020,2913,andieri@hotmail.com,Geología 
+411,JEREMMY,4,7/4/2016,2664123,jeremmy@hotmail.co,Ingeniería de sistemas
+412,EHISEMBER,15,9/11/2016,2881395,ehisember@gmail.co,Administración de empresas
+413,OLAF,10,7/20/2022,3439313,olaf@gmail.com,Geología 
+414,MILIAM,15,8/8/2022,3448689,miliam@outlook.com,Administración de empresas
+415,YUDIBYS,7,3/21/2023,3870850,yudibys@hotmail.com,Ciencia política
+416,LUZCINIA,14,12/25/2018,3692745,luzcinia@hotmail.co,Estadística
+417,DORALBER,8,8/6/2020,3364986,doralber@gmail.co,Ingeniería de sistemas
+418,MELEDENYS,12,7/24/2021,3185781,meledenys@gmail.com,Ciencia política
+419,ALUVIER,1,1/18/2018,3328248,aluvier@outlook.com,Ingeniería eléctrica
+420,PENUELA,14,5/15/2019,3730313,penuela@outlook.co,Estadística
+421,EDIH,5,10/5/2021,2976395,edih@hotmail.com,Ingenieria química
+422,WALEZKA,2,9/13/2021,2890038,walezka@hotmail.co,Ingeniería eléctrica
+423,GERMINIA,8,8/8/2021,3489298,germinia@gmail.co,Ingeniería eléctrica
+424,ANNISA,2,9/11/2019,3309612,annisa@gmail.com,Ingeniería eléctrica
+425,YONDARO,14,11/2/2021,3854769,yondaro@outlook.com,Ingenieria química
+426,ARQUIMINO,10,10/3/2022,3099313,arquimino@outlook.co,Ciencia política
+427,BIUN,10,12/5/2016,3515169,biun@hotmail.com,Ingeniería de sistemas
+428,LISNELLY,1,2/1/2023,3714736,lisnelly@hotmail.co,Administración de empresas
+429,OSILIO,6,7/24/2023,3727295,osilio@gmail.co,Administración de empresas
+430,AMYS,2,4/26/2022,3439356,amys@gmail.com,Geología 
+431,JENIXA,10,4/16/2018,3107288,jenixa@outlook.com,Ingeniería Industrial
+432,NURIZ,6,9/26/2022,3410037,nuriz@outlook.co,Administración de empresas
+433,CECUNDINA,2,1/17/2022,2919429,cecundina@hotmail.com,Ingenieria electrónica
+434,DARLYSSON,8,2/20/2021,3414987,darlysson@hotmail.co,Geología 
+435,EIDIS,7,2/2/2022,3144665,eidis@gmail.co,Administración de empresas
+436,MAKAREM,12,10/26/2021,3766551,makarem@gmail.com,Ingeniería eléctrica
+437,JERQUIN,14,3/16/2019,2758906,jerquin@outlook.com,Ciencia política
+438,VIANE,5,6/15/2022,3234033,viane@hotmail.com,Ingeniería de sistemas
+439,DEIFAM,12,9/16/2021,2779527,deifam@hotmail.co,Matemáticas
+440,FLORADIS,6,1/10/2019,3240899,floradis@gmail.co,Ingenieria electrónica
+441,LISNAIDU,10,2/22/2019,3410412,lisnaidu@gmail.com,Ingenieria electrónica
+442,GERSSAN,4,3/27/2021,3114437,gerssan@outlook.com,Ingeniería de sistemas
+443,YIBSON,5,12/9/2021,3031226,yibson@outlook.co,Ingeniería eléctrica
+444,CAMPANELLA,8,8/16/2017,3804239,campanella@hotmail.com,Ingeniería Industrial
+445,YAZBLEIDI,12,8/16/2022,2920614,yazbleidi@hotmail.co,Ingeniería de sistemas
+446,YIFERSON,10,11/2/2021,3819913,yiferson@gmail.co,Ingeniería eléctrica
+447,JHARIXLEINY,2,7/11/2023,3646498,jharixleiny@gmail.com,Matemáticas
+448,ARLIDYS,1,9/2/2018,3181404,arlidys@outlook.com,Administración de empresas
+449,DELIO,4,11/27/2020,3045733,delio@outlook.co,Ciencia política
+450,FAYBELLY,14,2/18/2020,3125530,faybelly@hotmail.com,Ingenieria química
+451,LUZSILVIA,1,2/27/2022,3918980,luzsilvia@hotmail.co,Ingeniería Industrial
+452,KELIS,5,1/6/2018,3203055,kelis@gmail.co,Ingeniería Industrial
+453,YAYTZA,6,3/23/2020,3717517,yaytza@gmail.com,Geología 
+454,OJAHUER,14,3/11/2018,3676885,ojahuer@outlook.com,Administración de empresas
+455,ANDERTSON,10,8/8/2016,3097681,andertson@outlook.co,Ingeniería eléctrica
+456,SARH,14,8/24/2020,3046975,sarh@hotmail.com,Ingenieria electrónica
+457,BANYANI,5,10/6/2016,3057017,banyani@hotmail.co,Ciencia política
+458,MARINEL,2,5/7/2021,3516089,marinel@gmail.co,Ingeniería eléctrica
+459,MARCELENI,1,12/10/2018,3614786,marceleni@gmail,Ingenieria química
+460,HARBETH,10,7/26/2022,3013690,harbeth@outlook.com,Estadística
+461,JESE,10,4/16/2022,3052062,jese@hotmail.com,Ingeniería de sistemas
+462,OSMEY,7,7/13/2019,3114200,osmey@hotmail.co,Geología 
+463,GEUSSEPPE,10,12/25/2018,3683521,geusseppe@gmail.co,Estadística
+464,SYDNEIRYS,1,4/29/2017,2899432,sydneirys@gmail.com,Geología 
+465,YOLANDA,4,1/3/2023,2946588,yolanda@outlook.com,Matemáticas
+466,NAOBIS,7,8/16/2016,3065868,naobis@outlook.co,Administración de empresas
+467,JHAINSON,8,7/2/2021,2630014,jhainson@hotmail.com,Ingenieria química
+468,NAYLIT,7,9/18/2019,3262313,naylit@hotmail.co,Ingeniería de sistemas
+469,DUNI,2,10/22/2016,3539662,duni@gmail.co,Ingeniería eléctrica
+470,DIRLEYS,7,11/30/2019,2918635,dirleys@gmail.com,Ingeniería de sistemas
+471,YHENY,12,3/26/2016,3608268,yheny@outlook.com,Estadística
+472,PREILY,4,4/15/2019,3804053,preily@outlook.co,Ciencia política
+473,YOLBERT,10,7/3/2017,3447917,yolbert@hotmail.com,Ingenieria química
+474,EGURROLA,5,7/23/2022,3174341,egurrola@hotmail.co,Administración de empresas
+475,LAIDETH,12,7/23/2017,3799310,laideth@gmail.co,Ingenieria electrónica
+476,DOYMEN,8,4/8/2022,2707268,doymen@gmail.com,Geología 
+477,NIBAR,5,1/20/2021,3704669,nibar@outlook.com,Ingeniería de sistemas
+478,MELEC,10,6/12/2020,2949216,melec@outlook.co,Ingeniería de sistemas
+479,FAUN,5,9/29/2018,2655995,faun@hotmail.com,Ingeniería Industrial
+480,HERNÁNDEZ,15,12/10/2018,3257177,hernández@hotmail.co,Matemáticas
+481,CRYS,5,4/14/2020,3466036,crys@gmail.co,Ingeniería de sistemas
+482,ALFAZAR,14,4/11/2018,3166774,alfazar@gmail.com,Matemáticas
+483,EGLIET,5,10/1/2020,3385464,egliet@outlook.com,Administración de empresas
+484,HAMLIM,5,6/28/2017,3912650,hamlim@hotmail.com,Estadística
+485,QUENIER,12,11/18/2019,3147397,quenier@hotmail.co,Ingenieria química
+486,NELCID,2,3/20/2023,3051659,nelcid@gmail.co,Ingenieria química
+487,ERIDALIA,14,6/8/2016,2586398,eridalia@gmail.com,Ciencia política
+488,GESOHAR,5,5/14/2021,3427244,gesohar@outlook.com,Estadística
+489,DIANELLA,5,9/23/2020,3537566,dianella@outlook.co,Ingenieria electrónica
+490,ADELY,2,4/23/2019,2797899,adely@hotmail.com,Ingeniería de sistemas
+491,JAMINSER,2,12/20/2021,2678384,jaminser@hotmail.co,Ciencia política
+492,JOUSWAR,1,8/24/2019,3200978,jouswar@gmail.co,Ingenieria química
+493,MARGREH,1,10/29/2020,3287810,margreh@gmail.com,Ingeniería de sistemas
+494,ELIERCENA,1,4/8/2021,3412478,eliercena@outlook.com,Estadística
+495,TAN,15,5/20/2021,2645714,tan@outlook.co,Administración de empresas
+496,HEIBBER,2,1/7/2018,2951462,heibber@hotmail.com,Ingenieria electrónica
+497,DORISLEY,10,5/7/2018,3088087,dorisley@hotmail.co,Matemáticas
+498,JOHNNA,5,2/7/2021,2774828,johnna@gmail.co,Ingeniería eléctrica
+499,LIEIDE,5,5/26/2016,3070505,lieide@gmail.com,Geología 
+500,KELLYJOHANA,10,6/6/2023,2671124,kellyjohana@outlook.com,Geología 
+501,JAMINE,15,3/2/2023,3322375,jamine@outlook.co,Ingeniería eléctrica
+502,BRESNEDIS,5,7/18/2022,3020543,bresnedis@hotmail.com,Ingeniería eléctrica
+503,NRIQUE,6,1/10/2017,2643374,nrique@hotmail.co,Estadística
+504,SOBEIDE,5,11/4/2018,3593047,sobeide@gmail.co,Geología 
+505,YANNICK,14,5/21/2018,3411029,yannick@gmail.com,Matemáticas
+506,SOIDY,12,5/21/2018,3777173,soidy@outlook.com,Ingenieria electrónica
+507,YONGHUI,14,12/24/2021,3179042,yonghui@hotmail.com,Ciencia política
+508,NAICIR,10,5/6/2016,2596630,naicir@hotmail.co,Ingenieria química
+509,ARLINTHON,5,4/12/2022,3878108,arlinthon@gmail.co,Ingeniería Industrial
+510,YBRAIL,6,4/13/2022,3905585,ybrail@gmail.com,Administración de empresas
+511,NORLAY,1,5/17/2021,3806414,norlay@outlook.com,Administración de empresas
+512,ARISTODEMOS,14,9/13/2020,3678220,aristodemos@outlook.co,Ingeniería de sistemas
+513,CAPELA,7,11/13/2019,2786870,capela@hotmail.com,Ingeniería eléctrica
+514,NILKA,10,9/6/2020,2971332,nilka@hotmail.co,Estadística
+515,YONEVER,10,7/10/2023,3238695,yonever@gmail.co,Ingeniería de sistemas
+516,BIVIANY,4,10/23/2018,3645473,biviany@gmail.com,Ingeniería de sistemas
+517,ORFENERY,14,4/18/2017,3386893,orfenery@outlook.com,Ingenieria electrónica
+518,KARIBEL,1,12/5/2020,3594639,karibel@outlook.co,Matemáticas
+519,GLORIAPATRICIA,5,2/8/2018,2944081,gloriapatricia@hotmail.com,Ingenieria electrónica
+520,YHULLYE,5,5/10/2023,3521273,yhullye@hotmail.co,Ingeniería de sistemas
+521,MAGUEYS,4,6/8/2016,3286351,magueys@gmail.co,Ingenieria química
+522,HAYDUK,5,null,3334223,hayduk@gmail.com,Ingeniería Industrial
+523,KARROLL,1,12/19/2016,3177043,karroll@outlook.com,Ingeniería Industrial
+524,DAWELL,10,5/1/2021,3001124,dawell@outlook.co,Administración de empresas
+525,SINDYZ,14,4/30/2018,3498236,sindyz@hotmail.com,Ciencia política
+526,ARISBARDO,10,5/21/2021,3188063,arisbardo@hotmail.co,Administración de empresas
+527,LAYNA,7,5/10/2023,null,layna@gmail.co,Geología 
+528,HAUSDISNEY,8,5/28/2018,3694714,hausdisney@gmail.com,Ingeniería de sistemas
+529,LIBBEL,7,10/28/2021,3721539,libbel@outlook.com,Ingenieria química
+530,YUBYSELY,8,6/26/2018,3664186,yubysely@hotmail.com,Matemáticas
+531,DIOMARYS,2,2/15/2021,3583537,diomarys@hotmail.co,Matemáticas
+532,ZOIRIS,6,1/27/2020,2681629,zoiris@gmail.co,Ingenieria química
+533,CORALEE,5,7/27/2021,3382430,coralee@gmail.com,Ciencia política
+534,NEFRY,2,6/23/2020,3243590,nefry@outlook.com,Ingenieria electrónica
+535,SERCY,10,12/19/2016,3757859,sercy@outlook.co,Ingeniería Industrial
+536,VICIA,10,1/15/2017,3314285,vicia@hotmail.com,Matemáticas
+537,LAYT,5,11/8/2021,2977775,layt@hotmail.co,Matemáticas
+538,NORI,2,3/15/2021,2677994,nori@gmail.co,Matemáticas
+539,RUMEN,10,5/28/2020,2708856,rumen@gmail.com,Ingeniería de sistemas
+540,ERICINDA,2,3/1/2019,3738753,ericinda@outlook.com,Ingeniería eléctrica
+541,ENOVA,15,2/23/2018,2775030,enova@outlook.co,Ciencia política
+542,BARCELONA,1,12/8/2019,3898375,barcelona@hotmail.com,Ingenieria química
+543,DUBERT,15,8/12/2018,2712276,dubert@hotmail.co,Ingenieria química
+544,EYEMBERTO,1,11/5/2016,3415942,eyemberto@gmail.co,Matemáticas
+545,WHILTER,15,3/6/2020,3697508,whilter@gmail.com,Ingenieria química
+546,CARDALES,12,11/13/2021,3720268,cardales@outlook.com,Ingeniería de sistemas
+547,WUILDEN,1,3/3/2023,2928163,wuilden@outlook.co,Ingeniería de sistemas
+548,ZARIBEY,1,3/13/2018,2610607,zaribey@hotmail.com,Estadística
+549,GINNEIDY,5,11/27/2021,3024667,ginneidy@hotmail.co,Ciencia política
+550,EUGEN,4,2/7/2022,3586813,eugen@gmail.co,Geología 
+551,BATUTIN,5,12/21/2018,3577107,batutin@gmail.com,Administración de empresas
+552,MAYLEDIS,5,6/25/2016,3822445,mayledis@outlook.com,Matemáticas
+553,YURLEIS,14,3/25/2019,3640835,yurleis@hotmail.com,Ingeniería eléctrica
+554,HERCILDA,15,9/9/2022,3921874,hercilda@hotmail.co,Ciencia política
+555,JADRID,8,6/30/2018,3825301,jadrid@gmail.co,Ingenieria electrónica
+556,AVADIS,5,8/17/2018,3892134,avadis@gmail.com,Ingeniería eléctrica
+557,ILDEMAR,4,2/7/2021,2964755,ildemar@outlook.com,Administración de empresas
+558,STEV,2,6/14/2023,2631705,stev@outlook.co,Ingeniería Industrial
+559,DEXCY,5,5/24/2016,3148337,dexcy@hotmail.com,Ingenieria química
+560,GREICI,8,9/5/2021,3810914,greici@hotmail.co,Matemáticas
+561,MAIRLIN,8,7/16/2018,2979997,mairlin@gmail.co,Ingeniería Industrial
+562,LIVANIA,1,10/15/2020,3222152,livania@gmail.com,Estadística
+563,IMMER,5,3/12/2021,2684869,immer@outlook.com,Ingenieria electrónica
+564,ARULFO,5,10/9/2020,3114779,arulfo@outlook.co,Estadística
+565,CUJAR,2,6/1/2019,3566046,cujar@hotmail.com,Estadística
+566,ARFREY,5,1/20/2017,3162572,arfrey@hotmail.co,Ingeniería Industrial
+567,DORITZIA,6,3/22/2022,3259980,doritzia@gmail.co,Ingenieria electrónica
+568,APOLINA,5,10/9/2016,3000828,apolina@gmail.com,Administración de empresas
+569,ILESA,15,9/10/2022,3136293,ilesa@outlook.com,Ingenieria química
+570,LORAINER,8,10/10/2019,2827422,lorainer@outlook.co,Ingeniería eléctrica
+571,IRACY,2,12/19/2017,3162581,iracy@hotmail.com,Ingeniería eléctrica
+572,ELIFIA,5,8/19/2017,3432238,elifia@hotmail.co,Ingeniería eléctrica
+573,ESTTELIA,8,7/1/2020,2695249,esttelia@gmail.co,Ingeniería eléctrica
+574,FRACE,14,7/23/2022,3385758,frace@gmail.com,Ingeniería de sistemas
+575,ASTRD,14,5/8/2021,3245385,astrd@outlook.com,Ciencia política
+576,EDISARED,7,6/23/2019,3240224,edisared@hotmail.com,Administración de empresas
+577,ARNEY,14,12/21/2016,3670205,arney@hotmail.co,Matemáticas
+578,KUELIS,5,4/26/2023,3239829,kuelis@gmail.co,Ingeniería eléctrica
+579,NAELA,15,4/26/2022,3665687,naela@gmail.com,Ingenieria electrónica
+580,BLELLYS,2,3/22/2023,3887860,blellys@outlook.com,Administración de empresas
+581,GIRALBA,10,5/30/2023,3313263,giralba@outlook.co,Administración de empresas
+582,CONTANZA,5,11/1/2019,3701466,contanza@hotmail.com,Administración de empresas
+583,WILAIS,5,9/14/2017,2674539,wilais@hotmail.co,Administración de empresas
+584,CEYLA,4,3/27/2019,2934093,ceyla@gmail.co,Ingeniería de sistemas
+585,AYSE,6,11/3/2018,3433692,ayse@gmail.com,Matemáticas
+586,ESERANZA,5,12/30/2022,3371989,eseranza@outlook.com,Ingeniería eléctrica
+587,DINIO,4,12/16/2022,3150117,dinio@outlook.co,Estadística
+588,CASARRUBIA,1,5/8/2017,3319919,casarrubia@hotmail.com,Ciencia política
+589,MARIENELLA,7,6/11/2018,3830246,marienella@hotmail.co,Ciencia política
+590,GHEYDI,6,12/2/2016,3027877,gheydi@gmail.co,Ciencia política
+591,ALENAY,7,6/26/2019,null,alenay@gmail.com,Ingeniería Industrial
+592,YEDMI,14,12/9/2018,2671919,yedmi@outlook.com,Geología 
+593,LORBAIRO,1,8/16/2019,3219248,lorbairo@outlook.co,Ciencia política
+594,YOVERTY,1,11/30/2016,3764085,yoverty@hotmail.com,Geología 
+595,ENAURY,2,2/18/2021,3365373,enaury@hotmail.co,Ingeniería de sistemas
+596,HUVENEL,1,7/19/2022,3499494,huvenel@gmail.co,Geología 
+597,EBEURIS,6,2/6/2023,3833415,ebeuris@gmail.com,Ingenieria química
+598,ANJEDY,14,7/11/2019,2647767,anjedy@outlook.com,Administración de empresas
+599,DAL,10,1/26/2019,3438069,dal@hotmail.com,Matemáticas
+600,YURFANNY,14,11/15/2018,3721000,yurfanny@hotmail.co,Geología 
+601,AMELCY,2,8/25/2019,3266713,amelcy@gmail.co,Matemáticas
+602,DACILI,14,3/10/2023,2967767,dacili@gmail.com,Matemáticas
+603,ADALQUISA,15,8/6/2022,3696668,adalquisa@outlook.com,Administración de empresas
+604,ASTRITH,2,1/18/2022,2983313,astrith@outlook.co,Geología 
+605,JULEIVY,1,2/6/2019,2592929,juleivy@hotmail.com,Ingenieria química
+606,YUSVANNY,2,5/29/2020,2764972,yusvanny@hotmail.co,Ciencia política
+607,YISNAIRA,5,12/21/2021,3147926,yisnaira@gmail.co,Matemáticas
+608,DARINKA,15,5/28/2022,2612861,darinka@gmail.com,Ciencia política
+609,MAYINETH,6,4/11/2019,2882422,mayineth@outlook.com,Ingeniería Industrial
+610,BELMONTE,5,4/4/2018,2821899,belmonte@outlook.co,Ingeniería eléctrica
+611,GEIXVAN,7,6/25/2019,2703343,geixvan@hotmail.com,Matemáticas
+612,MARLIJAR,14,12/3/2021,3887612,marlijar@hotmail.co,Ingenieria electrónica
+613,BREANA,1,11/18/2016,3360751,breana@gmail.co,Ingeniería de sistemas
+614,EDILCE,2,12/14/2017,2722202,edilce@gmail.com,Ingeniería eléctrica
+615,DEWIR,15,11/5/2020,2838305,dewir@outlook.com,Estadística
+616,LUISIANA,7,8/28/2016,3290124,luisiana@outlook.co,Estadística
+617,OLINDO,5,3/27/2018,3252093,olindo@hotmail.com,Estadística
+618,VIKKA,4,2/20/2020,3279598,vikka@hotmail.co,Ingeniería de sistemas
+619,LOEL,2,10/16/2020,2840738,loel@gmail.co,Administración de empresas
+620,ORIKA,2,6/16/2016,3807835,orika@gmail.com,Ingeniería eléctrica
+621,AYEN,7,2/25/2022,3612982,ayen@outlook.com,Estadística
+622,ARLIZ,15,5/4/2016,2931410,arliz@hotmail.com,Ingeniería Industrial
+623,LIPO,5,10/26/2016,3278428,lipo@hotmail.co,Matemáticas
+624,JINNYREY,1,3/7/2021,2655800,jinnyrey@gmail.co,Geología 
+625,YEGENIA,1,4/29/2022,3198556,yegenia@gmail.com,Matemáticas
+626,BALKIS,10,8/14/2020,3823584,balkis@outlook.com,Ingeniería eléctrica
+627,VIANETH,5,8/16/2021,3479865,vianeth@outlook.co,Ingeniería de sistemas
+628,MAITUS,5,8/20/2017,3783334,maitus@hotmail.com,Estadística
+629,SAYDEN,14,3/30/2017,3449306,sayden@hotmail.co,Ingenieria electrónica
+630,DALGLISH,2,1/29/2018,3581812,dalglish@gmail.co,Ciencia política
+631,FERIDE,5,11/6/2018,3689787,feride@gmail.com,Ingeniería de sistemas
+632,SNEIDER,15,1/11/2021,3790955,sneider@outlook.com,Ingeniería de sistemas
+633,GIME,1,6/5/2021,null,gime@outlook.co,Ciencia política
+634,ARIELA,5,2/16/2017,3391822,ariela@hotmail.com,Ingenieria electrónica
+635,YINNEEHT,1,6/19/2022,3257853,yinneeht@hotmail.co,Ingenieria química
+636,FRAYZULI,1,11/8/2016,3517822,frayzuli@gmail.co,Ingeniería Industrial
+637,ROBIN,8,2/15/2021,3523685,robin@gmail.com,Ingenieria electrónica
+638,LUZDANEZA,7,12/8/2022,3733625,luzdaneza@outlook.com,Geología 
+639,MARYARLY,5,6/27/2017,3691891,maryarly@outlook.co,Matemáticas
+640,LUPERCI,5,10/9/2019,3397943,luperci@hotmail.com,Matemáticas
+641,VIGDOLIA,5,5/25/2016,2965638,vigdolia@hotmail.co,Geología 
+642,LEINNER,1,12/6/2018,3054512,leinner@gmail.co,Ingeniería Industrial
+643,WINDDY,2,12/12/2016,3428531,winddy@gmail.com,Ingeniería Industrial
+644,MARINELLA,14,1/2/2021,3314674,marinella@outlook.com,Ingenieria electrónica
+645,STEVE,14,8/14/2022,3270599,steve@hotmail.com,Matemáticas
+646,DECELIA,5,10/17/2018,3401615,decelia@hotmail.co,Administración de empresas
+647,JANPIER,10,12/15/2022,2950490,janpier@gmail.co,Ingeniería de sistemas
+648,WILMEDIS,1,4/7/2023,3730631,wilmedis@gmail.com,Ingenieria electrónica
+649,HENSSON,4,1/2/2021,3273326,hensson@outlook.com,Ciencia política
+650,KREYLA,6,8/23/2016,2947937,kreyla@outlook.co,Estadística
+651,OVANNY,7,5/10/2017,2869202,ovanny@hotmail.com,Ingenieria química
+652,JIDIS,5,12/8/2019,2616686,jidis@hotmail.co,Administración de empresas
+653,BANYIS,1,4/3/2021,2733026,banyis@gmail.co,Ingeniería de sistemas
+654,MARCENIA,1,7/4/2021,2697658,marcenia@gmail.com,Estadística
+655,DIAFANADOR,5,6/27/2022,3136335,diafanador@outlook.com,Ingenieria electrónica
+656,DELPRADO,2,2/6/2017,3175425,delprado@outlook.co,Ingeniería eléctrica
+657,FEMMY,15,1/25/2023,3075766,femmy@hotmail.com,Administración de empresas
+658,SUEN,1,10/1/2018,2820746,suen@hotmail.co,Estadística
+659,HELVEHR,2,2/22/2019,3825617,helvehr@gmail.co,Administración de empresas
+660,KARIN,6,10/18/2016,3690313,karin@gmail.com,Ingeniería de sistemas
+661,OSHUALT,1,5/22/2018,3277813,oshualt@outlook.com,Geología 
+662,JHOINNER,12,5/2/2022,2962920,jhoinner@outlook.co,Matemáticas
+663,FANIAN,1,9/1/2017,3830674,fanian@hotmail.com,Administración de empresas
+664,FABARA,8,4/16/2022,3018616,fabara@hotmail.co,Ciencia política
+665,DELIS,5,4/30/2020,3201499,delis@gmail.co,Ingenieria química
+666,FARIBETH,7,4/5/2022,2908525,faribeth@gmail.com,Ingenieria electrónica
+667,YADANIS,4,7/27/2022,3919478,yadanis@outlook.com,Ingenieria electrónica
+668,SEUS,4,2/4/2020,2969225,seus@hotmail.com,Administración de empresas
+669,ALEXANDAR,6,12/15/2018,2888468,alexandar@hotmail.co,Ingeniería de sistemas
+670,YENKINS,8,2/22/2023,2697043,yenkins@gmail.co,Ciencia política
+671,ENSITO,2,7/8/2020,3340826,ensito@gmail.com,Ingeniería de sistemas
+672,YEMITH,2,12/13/2022,3314654,yemith@outlook.com,Geología 
+673,SISAOLA,2,10/29/2019,3552339,sisaola@outlook.co,Ciencia política
+674,ALQUIBER,6,4/17/2017,3184584,alquiber@hotmail.com,Ingeniería de sistemas
+675,PIENANYILY,5,10/6/2021,3897302,pienanyily@hotmail.co,Ingeniería Industrial
+676,ICEL,1,10/21/2016,3100798,icel@gmail.co,Ingenieria química
+677,OSNAR,5,12/15/2019,3646954,osnar@gmail.com,Estadística
+678,LUZCENNY,15,3/3/2020,3663688,luzcenny@outlook.com,Geología 
+679,CALETH,15,11/15/2021,3364573,caleth@outlook.co,Estadística
+680,SART,2,10/21/2017,2645649,sart@hotmail.com,Ingenieria electrónica
+681,YEFERSSON,1,2/4/2022,3562461,yefersson@hotmail.co,Administración de empresas
+682,EMPERATRIZAURORA,12,11/6/2018,3181110,emperatrizaurora@gmail.co,Ingeniería eléctrica
+683,YADIASIS,2,11/30/2021,3123342,yadiasis@gmail.com,Ingeniería eléctrica
+684,GESSETH,5,1/16/2018,2767023,gesseth@outlook.com,Ingeniería Industrial
+685,ROMALDO,1,6/17/2021,2974690,romaldo@outlook.co,Ingeniería eléctrica
+686,NALSI,2,11/19/2016,2598916,nalsi@hotmail.com,Geología 
+687,JEYSY,1,7/12/2023,3553741,jeysy@hotmail.co,Ingeniería Industrial
+688,MAYANT,1,2/18/2023,2875580,mayant@gmail.co,Ingenieria química
+689,HAIMETH,2,6/2/2022,3501038,haimeth@gmail.com,Ingeniería Industrial
+690,SHUSKING,1,10/11/2016,3610818,shusking@outlook.com,Ingenieria química
+691,RUBELINA,6,6/5/2017,3494798,rubelina@hotmail.com,Ingeniería Industrial
+692,YANURIA,5,5/25/2022,3465946,yanuria@hotmail.co,Ingeniería de sistemas
+693,ANGELBER,5,4/20/2023,2687261,angelber@gmail.co,Ingeniería de sistemas
+694,SIBELLYS,15,7/2/2019,2593017,sibellys@gmail.com,Matemáticas
+695,ROBIZON,10,9/28/2021,3324385,robizon@outlook.com,Ingenieria química
+696,MEQUICEDED,2,4/27/2018,3715401,mequiceded@outlook.co,Ciencia política
+697,DOREYS,10,7/12/2020,3506579,doreys@hotmail.com,Ingeniería de sistemas
+698,PAOLAA,2,4/12/2016,3042284,paolaa@hotmail.co,Matemáticas
+699,ALRONAL,4,3/3/2017,2943965,alronal@gmail.co,Ingenieria electrónica
+700,NICOHLE,4,12/26/2022,2754233,nicohle@gmail.com,Estadística
+701,MARILINS,2,7/17/2018,2919797,marilins@outlook.com,Administración de empresas
+702,YIZETHD,12,1/30/2023,2995116,yizethd@outlook.co,Ingenieria química
+703,BREATRIZ,1,9/30/2018,2863564,breatriz@hotmail.com,Matemáticas
+704,ARGIMERO,5,2/6/2023,3725108,argimero@hotmail.co,Ingenieria electrónica
+705,MAZLY,2,2/9/2021,2620801,mazly@gmail.co,Ingeniería de sistemas
+706,ELIOUTH,12,7/10/2018,3330690,eliouth@gmail.com,Ingenieria química
+707,DUVERLYS,1,12/20/2022,3028095,duverlys@outlook.com,Administración de empresas
+708,RUBENSORIS,2,5/18/2019,2865519,rubensoris@outlook.co,Ingeniería de sistemas
+709,ADICHEL,8,1/5/2022,2728582,adichel@hotmail.com,Ingeniería Industrial
+710,AVELIO,14,7/16/2018,3771797,avelio@hotmail.co,Matemáticas
+711,EUDENYS,7,8/7/2017,2719642,eudenys@gmail.co,Geología 
+712,ORLETHE,12,9/14/2021,2996657,orlethe@gmail.com,Ingenieria química
+713,GALLEGOS,1,6/8/2016,3452483,gallegos@outlook.com,Geología 
+714,IOANNA,2,2/11/2018,3199911,ioanna@hotmail.com,Matemáticas
+715,BEYSON,7,8/12/2017,2970074,beyson@hotmail.co,Estadística
+716,OZMANNY,15,5/31/2021,3730223,ozmanny@gmail.co,Ingenieria electrónica
+717,NHARA,5,12/23/2018,3304519,nhara@gmail.com,Ingeniería Industrial
+718,DANGER,5,2/10/2017,3157056,danger@outlook.com,Matemáticas
+719,JUEMILY,5,1/16/2018,3305940,juemily@outlook.co,Ingeniería Industrial
+720,NINON,1,3/16/2023,2895607,ninon@hotmail.com,Administración de empresas
+721,JESNELS,5,3/8/2017,3814185,jesnels@hotmail.co,Ingeniería Industrial
+722,ANWART,10,3/17/2020,3305433,anwart@gmail.co,Ingeniería eléctrica
+723,BRYITH,1,2/20/2022,2778071,bryith@gmail.com,Administración de empresas
+724,YELISSE,7,6/20/2018,3617122,yelisse@outlook.com,Ingeniería Industrial
+725,ILNIRIDA,14,11/2/2022,3664682,ilnirida@outlook.co,Ingenieria electrónica
+726,ALDIER,12,9/22/2018,3866894,aldier@hotmail.com,Ingeniería eléctrica
+727,AMALTY,5,12/25/2021,3872947,amalty@hotmail.co,Matemáticas
+728,ENILSO,2,10/29/2020,3358962,enilso@gmail.co,Ingeniería Industrial
+729,ESTATIRA,15,8/29/2019,2680407,estatira@gmail.com,Estadística
+730,MADELCIA,5,1/13/2021,3675050,madelcia@outlook.com,Estadística
+731,JHAMYR,14,9/2/2021,3347381,jhamyr@outlook.co,Ingenieria química
+732,FROINILDA,8,11/24/2018,3584549,froinilda@hotmail.com,Ingeniería de sistemas
+733,GAHEN,6,6/27/2017,3695807,gahen@hotmail.co,Ciencia política
+734,GEIDIE,5,7/31/2017,3151359,geidie@gmail.co,Ingeniería de sistemas
+735,ROCENDO,1,11/10/2022,3696494,rocendo@gmail.com,Ingeniería eléctrica
+736,JANNAYDETH,5,11/29/2021,2674475,jannaydeth@outlook.com,Geología 
+737,MILLARLEY,14,6/4/2022,3188798,millarley@hotmail.com,Matemáticas
+738,MARYORI,2,4/15/2023,3862964,maryori@hotmail.co,Ingeniería de sistemas
+739,NEMOROSO,7,1/10/2017,3816978,nemoroso@gmail.co,Ingeniería de sistemas
+740,STHEFANY,15,6/3/2021,3567125,sthefany@gmail.com,Ingeniería eléctrica
+741,GILIANTE,2,1/11/2023,3714009,giliante@outlook.com,Matemáticas
+742,ARNEIDYS,10,4/16/2021,3749186,arneidys@outlook.co,Geología 
+743,LADERA,2,3/31/2023,2949686,ladera@hotmail.com,Geología 
+744,FREDISLANDO,2,12/28/2019,3155836,fredislando@hotmail.co,Ingeniería Industrial
+745,JULEED,2,3/18/2019,2968766,juleed@gmail.co,Matemáticas
+746,SURIDES,12,5/8/2016,3716368,surides@gmail.com,Ingeniería Industrial
+747,CATARINE,4,3/18/2019,3356549,catarine@outlook.com,Ingeniería de sistemas
+748,KEOPASTY,5,7/28/2023,3074451,keopasty@.co,Geología 
+749,YESSITH,1,9/17/2016,3784239,yessith@hotmail.com,Ingeniería eléctrica
+750,YAMPIERO,1,7/22/2021,3583576,yampiero@hotmail.co,Ingeniería eléctrica
+751,ALGARO,14,null,3252901,algaro@gmail.co,Matemáticas
+752,JEEYMY,12,7/3/2019,2842105,jeeymy@gmail.com,Ingeniería de sistemas
+753,DIARLEYS,4,7/12/2018,3362371,diarleys@outlook.com,Geología 
+754,GRAHAM,5,6/20/2022,2996191,graham@outlook.co,Ingeniería de sistemas
+755,ZAWADY,5,4/10/2018,2843490,zawady@hotmail.com,Ingeniería eléctrica
+756,BERNELYS,1,4/4/2017,3376601,bernelys@hotmail.co,Ingenieria electrónica
+757,CREOTILDE,15,7/30/2019,3356169,creotilde@gmail.co,Ciencia política
+758,LAWRY,14,3/18/2019,2775621,lawry@gmail.com,Ingenieria electrónica
+759,JANIS,5,6/17/2018,3681358,janis@outlook.com,Geología 
+760,YERSON,2,7/23/2020,3643134,yerson@hotmail.com,Ingeniería de sistemas
+761,ZAILETH,12,5/19/2020,2580519,zaileth@hotmail.co,Ingenieria electrónica
+762,CARLOMAR,7,3/13/2019,3306618,carlomar@gmail.co,Ciencia política
+763,ADELMAIRA,14,1/14/2022,2745818,adelmaira@gmail.com,Ingeniería Industrial
+764,YANEIS,15,3/25/2016,3260360,yaneis@outlook.com,Ingeniería de sistemas
+765,DUBOY,15,7/2/2021,3055091,duboy@outlook.co,Ciencia política
+766,YANELEIDY,5,3/31/2018,3700804,yaneleidy@hotmail.com,Ingeniería de sistemas
+767,RIQUET,10,12/18/2021,3458979,riquet@hotmail.co,Ingeniería eléctrica
+768,KHAROOL,7,10/24/2019,3106209,kharool@gmail.co,Matemáticas
+769,IRAMIS,2,6/19/2018,3002388,iramis@gmail.com,Estadística
+770,IBEH,12,2/7/2018,2991387,ibeh@outlook.com,Ingeniería eléctrica
+771,JERSER,10,10/24/2021,2860180,jerser@outlook.co,Ingenieria química
+772,CHAROLD,1,11/11/2017,3287173,charold@hotmail.com,Estadística
+773,VINASCO,14,12/26/2020,3695659,vinasco@hotmail.co,Ingeniería eléctrica
+774,MYUNGSUK,12,3/30/2018,3244705,myungsuk@gmail.co,Ingeniería Industrial
+775,YABAN,1,3/20/2018,null,yaban@gmail.com,Ingeniería de sistemas
+776,ALDEIBER,1,4/4/2018,2948958,aldeiber@outlook.com,Ingenieria electrónica
+777,TULANDE,4,10/16/2018,3773653,tulande@outlook.co,Ingeniería eléctrica
+778,ILDEN,8,4/30/2019,3274995,ilden@hotmail.com,Matemáticas
+779,IDEMA,15,9/9/2019,3896840,idema@hotmail.co,Ingenieria electrónica
+780,ABIMELECK,7,5/4/2022,3295933,abimeleck@gmail.co,Estadística
+781,CRISTIQN,2,1/10/2021,3790819,cristiqn@gmail.com,Administración de empresas
+782,OCDOCIA,14,6/29/2022,3391063,ocdocia@outlook.com,Ingenieria química
+783,BETZANDREINA,14,12/31/2022,3411093,betzandreina@hotmail.com,Ingeniería eléctrica
+784,GREYZLEEN,7,5/29/2021,3354741,greyzleen@hotmail.co,Geología 
+785,JHEOVANA,1,11/27/2020,2580026,jheovana@gmail.co,Ingeniería Industrial
+786,LIZDI,7,10/15/2017,3313863,lizdi@gmail.com,Ingenieria electrónica
+787,JOHISNER,8,6/20/2017,3874641,johisner@outlook.com,Estadística
+788,YOYN,14,3/2/2021,2822265,yoyn@outlook.co,Ingenieria electrónica
+789,LORBEY,8,12/7/2018,2776538,lorbey@hotmail.com,Ingeniería eléctrica
+790,JHONNAYRO,5,9/26/2018,3199505,jhonnayro@hotmail.co,Ciencia política
+791,ABIECER,5,8/3/2020,3573044,abiecer@gmail.co,Estadística
+792,SUZEL,12,12/12/2022,3430432,suzel@gmail.com,Ingenieria química
+793,ROSCIRIS,5,5/29/2019,2922846,rosciris@outlook.com,Ingenieria electrónica
+794,LARCHI,1,6/9/2021,2587409,larchi@outlook.co,Ciencia política
+795,CLARILAYS,5,6/16/2017,3819206,clarilays@hotmail.com,Ciencia política
+796,MAIDELIS,2,12/6/2022,3846546,maidelis@hotmail.co,Ingenieria química
+797,JEIFHER,1,8/11/2020,3298069,jeifher@gmail.co,Geología 
+798,MILDRY,5,1/29/2017,2902759,mildry@gmail.com,Estadística
+799,SULLAY,4,12/5/2020,2656164,sullay@outlook.com,Ingeniería de sistemas
+800,MARIANEL,5,4/27/2019,2985277,marianel@outlook.co,Ingeniería de sistemas
+801,NAHAN,5,10/31/2017,2802581,nahan@hotmail.com,Ingeniería Industrial
+802,EGCEMANI,1,3/14/2022,3896551,egcemani@hotmail.co,Administración de empresas
+803,GABRIELE,14,9/13/2018,3321092,gabriele@gmail.co,Ingeniería Industrial
+804,YOAMIR,5,4/11/2022,3054441,yoamir@gmail.com,Ingeniería de sistemas
+805,NIDA,2,5/1/2022,2714626,nida@outlook.com,Ingeniería de sistemas
+806,PIPI,1,5/6/2021,2615769,pipi@hotmail.com,Ingeniería Industrial
+807,YAJADIS,1,1/7/2023,3180505,yajadis@hotmail.co,Ingenieria química
+808,OSULAY,12,3/21/2022,26_26,osulay@gmail.co,Ingeniería Industrial
+809,FRACY,2,5/13/2023,3072291,fracy@gmail.com,Estadística
+810,BRYTON,12,3/26/2016,3010700,bryton@outlook.com,Matemáticas
+811,NIRIAM,8,5/19/2017,3285997,niriam@outlook.co,Estadística
+812,MARLONHT,1,12/31/2017,3023463,marlonht@hotmail.com,Ingenieria química
+813,SAMMYEY,1,6/14/2023,3338876,sammyey@hotmail.co,Geología 
+814,DINIS,12,10/28/2019,3020175,dinis@gmail.co,Ingeniería Industrial
+815,MARCILIA,1,1/16/2021,3899807,marcilia@gmail.com,Ciencia política
+816,CARMELO,5,7/19/2016,3094873,carmelo@outlook.com,Ciencia política
+817,HEDIN,1,2/20/2022,3912593,hedin@outlook.co,Ciencia política
+818,LUZDELSA,4,5/5/2016,3107407,luzdelsa@hotmail.com,Ingeniería de sistemas
+819,CLERTH,5,1/9/2021,3912171,clerth@hotmail.co,Geología 
+820,URIELA,7,6/3/2019,3052787,uriela@gmail.co,Ingeniería de sistemas
+821,ALBIZ,2,1/3/2019,3839994,albiz@gmail.com,Estadística
+822,NEIFI,5,8/19/2022,3578804,neifi@outlook.com,Ingenieria química
+823,ONEI,2,5/17/2020,2910000,onei@outlook.co,Ingeniería de sistemas
+824,REINALDINA,2,6/11/2023,3405648,reinaldina@hotmail.com,Matemáticas
+825,KARINET,5,5/3/2018,3267780,karinet@hotmail.co,Ingeniería eléctrica
+826,DOLCA,14,12/18/2022,3506881,dolca@gmail.co,Ingenieria química
+827,JOSEGIL,2,7/23/2017,3609919,josegil@gmail.com,Administración de empresas
+828,ALCIRO,7,5/19/2019,2761191,alciro@outlook.com,Geología 
+829,JOHEMI,6,1/12/2017,3749956,johemi@hotmail.com,Ingenieria electrónica
+830,JUSTINIANA,1,1/20/2019,3585047,justiniana@hotmail.co,Administración de empresas
+831,CRETEL,1,10/23/2018,3160002,cretel@gmail.co,Ingenieria electrónica
+832,KAYRIN,5,12/31/2018,2664127,kayrin@gmail.com,Ingenieria electrónica
+833,NARSES,14,1/27/2019,3241826,narses@outlook.com,Estadística
+834,YAIRE,6,3/2/2021,2628828,yaire@outlook.co,Ciencia política
+835,KENVERLYN,12,11/25/2022,3752986,kenverlyn@hotmail.com,Administración de empresas
+836,YEMILIT,14,7/22/2022,3432157,yemilit@hotmail.co,Ingeniería de sistemas
+837,IDETTE,2,12/29/2020,3771100,idette@gmail.co,Ingeniería de sistemas
+838,GOZALO,6,6/28/2023,3500663,gozalo@gmail.com,Ingeniería Industrial
+839,YONTH,4,12/23/2021,2664448,yonth@outlook.com,Matemáticas
+840,YILFREI,2,7/25/2017,3740603,yilfrei@outlook.co,Ingenieria química
+841,ZAINAB,4,11/27/2020,3692217,zainab@hotmail.com,Estadística
+842,ABACK,4,4/17/2016,3406436,aback@hotmail.co,Ingeniería de sistemas
+843,KAILIN,10,4/12/2023,3729219,kailin@gmail.co,Ingeniería de sistemas
+844,YONALETH,2,2/28/2019,2838576,yonaleth@gmail.com,Geología 
+845,BERNAN,6,12/28/2020,3779773,bernan@outlook.com,Ingeniería de sistemas
+846,MARDIRIS,15,6/25/2016,2802952,mardiris@outlook.co,Geología 
+847,ERMEDIS,7,11/26/2020,3498854,ermedis@hotmail.com,Ingeniería Industrial
+848,MARISBEL,5,4/19/2019,3732798,marisbel@hotmail.co,Ingenieria electrónica
+849,AITANA,6,10/24/2019,3778909,aitana@gmail.co,Ingenieria química
+850,WEVERLIN,5,7/12/2017,3013802,weverlin@gmail.com,Estadística
+851,MAIYENS,5,5/1/2018,3678418,maiyens@outlook.com,Ingenieria electrónica
+852,LUNETTE,12,9/14/2017,3147063,lunette@hotmail.com,Geología 
+853,ARDIZZONE,6,4/4/2021,2754216,ardizzone@hotmail.co,Ingenieria electrónica
+854,DOYMER,12,7/21/2018,3298775,doymer@gmail.co,Ingeniería de sistemas
+855,DAILTON,8,11/24/2017,3636149,dailton@gmail.com,Matemáticas
+856,RUJE,8,7/3/2019,3357753,ruje@outlook.com,Administración de empresas
+857,SURIT,5,4/7/2017,3270164,surit@outlook.co,Administración de empresas
+858,BERENGUER,5,4/21/2023,3025948,berenguer@hotmail.com,Ingeniería eléctrica
+859,ARNUZ,5,3/21/2021,3681134,arnuz@hotmail.co,Ingeniería eléctrica
+860,EHIMYS,2,11/3/2021,3290204,ehimys@gmail.co,Administración de empresas
+861,EDIDTSON,14,10/5/2018,3167708,edidtson@gmail.com,Estadística
+862,ELIDENZUL,8,5/8/2023,3488116,elidenzul@outlook.com,Matemáticas
+863,ENGRI,10,11/16/2019,3379199,engri@outlook.co,Estadística
+864,DAGUET,1,10/27/2020,2813570,daguet@hotmail.com,Geología 
+865,ALIBER,2,11/30/2021,3362714,aliber@hotmail.co,Ingeniería de sistemas
+866,IVERTH,8,5/4/2016,2815249,iverth@gmail.co,Ingeniería Industrial
+867,BELLELA,1,11/8/2021,2913322,bellela@gmail.com,Ingenieria química
+868,JHONARVI,1,9/22/2022,3518440,jhonarvi@outlook.com,Ingeniería Industrial
+869,JHPN,4,12/17/2021,null,jhpn@outlook.co,Ingenieria electrónica
+870,RUBI,14,6/15/2019,3832072,rubi@hotmail.com,Ingenieria química
+871,NORFANI,5,7/14/2021,3611813,norfani@hotmail.co,Ingeniería eléctrica
+872,ACHICUE,4,5/31/2021,3630664,achicue@gmail.co,Ingenieria electrónica
+873,GENEVIS,10,12/3/2017,2998619,genevis@gmail.com,Estadística
+874,LEOTILDE,14,4/10/2020,3033192,leotilde@outlook.com,Geología 
+875,OSBLADO,12,6/27/2020,2870897,osblado@hotmail.com,Ingenieria química
+876,OREALIX,14,10/10/2020,3333131,orealix@hotmail.co,Ingenieria química
+877,KYCHENER,6,2/7/2022,3079989,kychener@gmail.co,Matemáticas
+878,TAME,2,7/29/2019,3012099,tame@gmail.com,Ingenieria electrónica
+879,BAETRIZ,1,10/31/2019,3106132,baetriz@outlook.com,Ciencia política
+880,ROCCIA,5,8/17/2016,3137808,roccia@outlook.co,Ingeniería eléctrica
+881,ESTIVELT,8,3/19/2020,3340075,estivelt@hotmail.com,Ingenieria electrónica
+882,JUDBERTH,8,7/6/2018,3812511,judberth@hotmail.co,Matemáticas
+883,AMIYERLAC,14,2/19/2022,3501237,amiyerlac@gmail.co,Ingeniería de sistemas
+884,YERDIC,2,6/25/2016,2993571,yerdic@gmail.com,Estadística
+885,DISFRANCI,15,12/29/2019,3914441,disfranci@outlook.com,Ingeniería de sistemas
+886,TIRSEN,14,12/6/2017,2678564,tirsen@outlook.co,Geología 
+887,GLENEIDYS,1,12/21/2022,3702365,gleneidys@hotmail.com,Ingeniería de sistemas
+888,WWULTER,5,7/18/2019,3387472,wwulter@hotmail.co,Ingenieria electrónica
+889,MAGLILI,7,6/15/2022,3867376,maglili@gmail.co,Matemáticas
+890,DIVAIRA,2,9/13/2020,3752936,divaira@gmail.com,Administración de empresas
+891,OMARLY,12,4/19/2019,3547219,omarly@outlook.com,Ingenieria química
+892,EDELBI,1,2/17/2017,3816540,edelbi@outlook.co,Ingenieria química
+893,NEHEMIAZ,12,10/1/2020,3595997,nehemiaz@hotmail.com,Estadística
+894,ADVENIZ,6,3/12/2020,3639684,adveniz@hotmail.co,Geología 
+895,ESPINILLA,1,5/31/2016,3719787,espinilla@gmail.co,Ingeniería Industrial
+896,LISBELILIA,6,3/23/2023,3041477,lisbelilia@gmail.com,Ingeniería de sistemas
+897,ELSOMINA,15,12/20/2020,3546426,elsomina@outlook.com,Ingeniería Industrial
+898,HAYDELBER,6,7/26/2022,2773864,haydelber@hotmail.com,Ingeniería Industrial
+899,ALIDAYD,5,3/7/2017,2977246,alidayd@hotmail.co,Matemáticas
+900,DIVETH,10,3/28/2018,3649722,diveth@gmail.co,Administración de empresas
+901,PATRIK,8,3/7/2023,2817273,patrik@gmail.com,Matemáticas
+902,FRELLIN,1,10/25/2016,3655435,frellin@outlook.com,Matemáticas
+903,NORELVIA,5,11/8/2020,2881069,norelvia@outlook.co,Geología 
+904,AYELPIS,15,5/31/2016,3437816,ayelpis@hotmail.com,Ingenieria química
+905,HISET,4,3/22/2021,2982283,hiset@hotmail.co,Ingeniería eléctrica
+906,ROYNAN,7,5/22/2016,3270608,roynan@gmail.co,Ciencia política
+907,WILSMER,5,7/29/2022,3434034,wilsmer@gmail.com,Ingenieria electrónica
+908,HOSNORALDO,10,4/5/2019,3606422,hosnoraldo@outlook.com,Ingeniería de sistemas
+909,LEIPSY,5,10/18/2017,2953580,leipsy@outlook.co,Administración de empresas
+910,JAZZ,1,4/10/2018,3654087,jazz@hotmail.com,Ingeniería Industrial
+911,IVAGON,12,8/9/2020,2912569,ivagon@hotmail.co,Ingeniería de sistemas
+912,JAININCE,5,2/28/2022,3483403,jainince@gmail.co,Ciencia política
+913,HEIBAL,6,8/21/2022,3242672,heibal@gmail.com,Ingeniería Industrial
+914,NORENYS,2,11/30/2017,3745341,norenys@outlook.com,Estadística
+915,EMERZO,10,3/31/2016,3546351,emerzo@outlook.co,Ciencia política
+916,NANOI,15,12/13/2018,3023558,nanoi@hotmail.com,Ingeniería de sistemas
+917,DUBERLYS,1,7/19/2023,3373888,duberlys@hotmail.co,Ingenieria química
+918,CIELIBETH,15,10/4/2020,3013616,cielibeth@gmail.co,Matemáticas
+919,HOLMEN,2,10/5/2019,3140762,holmen@gmail.com,Ingenieria química
+920,KATRI,2,9/2/2022,3007003,katri@outlook.com,Ingeniería Industrial
+921,BARLOVI,5,5/7/2022,3536992,barlovi@hotmail.com,Matemáticas
+922,JAININY,15,5/11/2019,2648241,jaininy@hotmail.co,Matemáticas
+923,EXYEYLI,2,3/19/2023,2610591,exyeyli@gmail.co,Administración de empresas
+924,YADIVE,1,8/29/2018,3201378,yadive@gmail.com,Estadística
+925,HERMANSOLI,1,4/25/2023,2937138,hermansoli@outlook.com,Ingeniería de sistemas
+926,GERIMOTH,7,6/26/2016,3602155,gerimoth@outlook.co,Geología 
+927,ASORIANY,5,8/22/2021,2851073,asoriany@hotmail.com,Matemáticas
+928,STELLIS,14,3/22/2017,2672974,stellis@hotmail.co,Administración de empresas
+929,ERNY,2,3/22/2023,3724336,erny@gmail.co,Ingeniería eléctrica
+930,ULICIA,8,2/1/2021,2827220,ulicia@gmail.com,Ingenieria electrónica
+931,DANLLY,5,8/4/2019,3442004,danlly@outlook.com,Ciencia política
+932,DILIET,7,4/28/2016,3492797,diliet@outlook.co,Ingeniería eléctrica
+933,AUDEL,6,4/3/2018,2767982,audel@hotmail.com,Geología 
+934,MYDIAM,5,7/15/2019,2925029,mydiam@hotmail.co,Matemáticas
+935,LYLLIANA,5,8/20/2020,2831868,lylliana@gmail.co,Ingenieria química
+936,STIWENN,6,11/27/2020,3768556,stiwenn@gmail.com,Estadística
+937,RAYD,8,11/2/2019,3263746,rayd@outlook.com,Ciencia política
+938,BRILLETE,10,3/13/2017,3563728,brillete@outlook.co,Ingeniería eléctrica
+939,RUSINDA,2,3/15/2018,3708818,rusinda@hotmail.com,Ingeniería eléctrica
+940,DEVINZON,1,6/30/2020,3574446,devinzon@hotmail.co,Matemáticas
+941,DILCELLY,1,9/11/2017,3088069,dilcelly@gmail.co,Matemáticas
+942,VITALVINA,4,3/7/2017,2952840,vitalvina@gmail.com,Ingeniería de sistemas
+943,PAY,2,7/2/2020,3418538,pay@outlook.com,Ingenieria química
+944,RUMI,12,12/20/2016,3115039,rumi@hotmail.com,Ciencia política
+945,GILDEVAN,15,7/20/2023,3565301,gildevan@hotmail.co,Geología 
+946,JOILYM,2,8/4/2017,3724654,joilym@gmail.co,Ingenieria electrónica
+947,WADDING,5,10/11/2016,3429268,wadding@gmail.com,Ingenieria electrónica
+948,ELUDINA,15,4/9/2016,2803406,eludina@outlook.com,Ingenieria química
+949,YERADINE,15,7/17/2019,3897775,yeradine@outlook.co,Ingenieria química
+950,MILLENYS,7,9/22/2022,2592694,millenys@hotmail.com,Ingeniería de sistemas
+951,NARVELLY,14,10/19/2020,3163691,narvelly@hotmail.co,Ingeniería Industrial
+952,WONDERLY,14,10/18/2022,2791184,wonderly@gmail.co,Estadística
+953,ESTARWIN,6,5/30/2023,3272437,estarwin@gmail.com,Geología 
+954,NICHOLL,5,7/29/2023,3870429,nicholl@outlook.com,Ciencia política
+955,SANTHIER,2,11/17/2021,3017752,santhier@outlook.co,Ingeniería Industrial
+956,MAGDARIO,5,7/25/2022,3785559,magdario@hotmail.com,Ingeniería de sistemas
+957,LUZMILAGRO,2,11/5/2016,2915312,luzmilagro@hotmail.co,Ingeniería de sistemas
+958,HERIDALDO,2,4/5/2021,2820002,heridaldo@gmail.co,Ingenieria química
+959,DERZU,5,5/10/2020,2823781,derzu@gmail.com,Ingeniería Industrial
+960,OXIRIS,8,10/12/2016,2645698,oxiris@outlook.com,Ingeniería eléctrica
+961,ALJURE,12,4/21/2022,2775122,aljure@outlook.co,Ingeniería de sistemas
+962,DAYLLY,5,4/3/2023,3323861,daylly@hotmail.com,Geología 
+963,ELINGER,4,4/4/2017,2812261,elinger@hotmail.co,Ingeniería eléctrica
+964,BRAULIN,2,7/6/2017,2928351,braulin@gmail.co,Estadística
+965,SORAMAY,5,null,2805220,soramay@gmail.com,Ciencia política
+966,JANIOTH,4,12/23/2016,3614030,janioth@outlook.com,Estadística
+967,BANIS,7,10/9/2021,2595787,banis@hotmail.com,Ingeniería Industrial
+968,EMINABETH,1,2/24/2019,3133663,eminabeth@hotmail.co,Ingenieria electrónica
+969,MARAYA,15,8/28/2019,3171474,maraya@gmail.co,Ingeniería eléctrica
+970,MALVIRIS,1,4/20/2018,2706092,malviris@gmail.com,Ingenieria química
+971,ALIEN,10,1/19/2018,3757526,alien@outlook.com,Geología 
+972,EUARIS,8,4/4/2017,3816629,euaris@outlook.co,Ciencia política
+973,DENEYSE,6,12/1/2020,3017154,deneyse@hotmail.com,Ingenieria química
+974,GUAMPE,4,4/16/2022,3714974,guampe@hotmail.co,Matemáticas
+975,LOLINYS,1,5/13/2023,3245916,lolinys@gmail.co,Estadística
+976,SCARTH,1,2/21/2020,3089291,scarth@gmail.com,Administración de empresas
+977,HUANELGER,12,11/29/2020,2959072,huanelger@outlook.com,Ingenieria química
+978,IVANY,6,9/30/2018,3472286,ivany@outlook.co,Geología 
+979,IVANIEL,5,4/15/2021,2636142,ivaniel@hotmail.com,Estadística
+980,SATHYA,5,3/23/2017,2676676,sathya@hotmail.co,Ciencia política
+981,MIRLEI,1,10/18/2019,29dfg632,mirlei@gmail.co,Ingenieria electrónica
+982,YALIDIS,1,11/9/2020,2766968,yalidis@gmail.com,Ciencia política
+983,HIOVANI,4,5/16/2016,3265112,hiovani@outlook.com,Ingenieria electrónica
+984,ALLIAN,10,2/25/2017,3423472,allian@outlook.co,Estadística
+985,EWLIDANNY,5,3/9/2017,3299478,ewlidanny@hotmail.com,Ingenieria electrónica
+986,MESMY,5,3/13/2021,2782385,mesmy@hotmail.co,Matemáticas
+987,VALETSKA,5,2/3/2017,2805193,valetska@gmail.co,Matemáticas
+988,ENED,5,7/22/2016,2657098,ened@gmail.com,Ingenieria química
+989,WUINDY,1,1/15/2018,3664435,wuindy@outlook.com,Estadística
+990,GRIXI,4,9/5/2018,3649229,grixi@hotmail.com,Ingeniería eléctrica
+991,SHIDHJMATNJ,8,4/27/2023,3560654,shidhjmatnj@hotmail.co,Ingeniería eléctrica
+992,HEITHE,7,7/30/2023,3712236,heithe@gmail.co,Ingeniería de sistemas
+993,YASMIDIS,1,8/15/2016,3022874,yasmidis@gmail.com,Ciencia política
+994,DUGAR,10,3/11/2017,3127582,dugar@outlook.com,Estadística
+995,JHEDSI,15,11/15/2019,null,jhedsi@outlook.co,Matemáticas
+996,DEIFANY,8,8/31/2020,3490706,deifany@hotmail.com,Administración de empresas
+997,LINKOL,5,3/8/2020,3822644,linkol@hotmail.co,Ingeniería de sistemas
+998,KIMBERLIN,10,1/11/2020,3241453,kimberlin@gmail.co,Estadística
+999,YALITZY,5,6/18/2023,3488070,yalitzy@gmail.com,Ingeniería Industrial
+1000,GLEYVER,5,5/14/2017,2969078,gleyver@outlook.com,Geología 
